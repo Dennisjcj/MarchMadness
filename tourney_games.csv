@@ -1,0 +1,1157 @@
+season,winslot,Aslot,Bslot,winner,teamA,teamB,Aseed,Bseed,Aname,Bname,Awins,Bwins,Alosses,Blosses,Ascore,Bscore,daynum,Aregion,Bregion
+A,R1W1,W01,W16,663,663,809,01,16,Massachusetts,UCF,31,10,1,18,92,70,136,East,East
+A,R1W2,W02,W15,603,603,685,02,15,Georgetown,MS Valley St,24,18,7,6,93,56,137,East,East
+A,R1W3,W03,W14,796,796,690,03,14,Texas Tech,N Illinois,28,19,1,9,74,73,137,East,East
+A,R1W4,W04,W13,660,660,679,04,13,Marquette,Monmouth NJ,22,20,7,9,68,44,136,East,East
+A,R1W5,W05,W12,515,729,515,05,12,Penn St,Arkansas,21,18,6,12,80,86,136,East,East
+A,R1W6,W06,W11,708,708,703,06,11,North Carolina,New Orleans,20,21,10,8,83,62,137,East,East
+A,R1W7,W07,W10,701,701,637,07,10,New Mexico,Kansas St,26,16,4,11,69,48,137,East,East
+A,R1W8,W08,W09,783,530,783,08,09,Bradley,Stanford,22,19,7,8,58,66,136,East,East
+A,R1X1,X01,X16,640,640,756,01,16,Kentucky,San Jose St,28,13,2,16,110,72,136,Midwest,Midwest
+A,R1X2,X02,X15,839,839,812,02,15,Wake Forest,ULM,23,15,5,13,62,50,137,Midwest,Midwest
+A,R1X3,X03,X14,829,829,732,03,14,Villanova,Portland,25,17,6,10,92,58,137,Midwest,Midwest
+A,R1X4,X04,X13,821,821,541,04,13,Utah,Canisius,23,19,6,10,72,43,136,Midwest,Midwest
+A,R1X5,X05,X12,629,629,539,05,12,Iowa St,California,22,17,8,10,74,64,136,Midwest,Midwest
+A,R1X6,X06,X11,651,651,802,06,11,Louisville,Tulsa,19,22,11,7,82,80,137,Midwest,Midwest
+A,R1X7,X07,X10,793,670,793,07,10,Michigan,Texas,20,20,11,9,76,80,137,Midwest,Midwest
+A,R1X8,X08,X09,831,844,831,08,09,WI Green Bay,Virginia Tech,24,22,3,5,48,61,136,Midwest,Midwest
+A,R1Y1,Y01,Y16,559,559,555,01,16,Connecticut,Colgate,30,15,2,14,68,59,136,Southeast,Southeast
+A,R1Y2,Y02,Y15,549,549,815,02,15,Cincinnati,UNC Greensboro,25,20,4,9,66,61,137,Southeast,Southeast
+A,R1Y3,Y03,Y14,606,606,519,03,14,Georgia Tech,Austin Peay,22,17,11,10,90,79,137,Southeast,Southeast
+A,R1Y4,Y04,Y13,736,810,736,04,13,UCLA,Princeton,23,20,7,6,41,43,136,Southeast,Southeast
+A,R1Y5,Y05,Y12,675,675,825,05,12,Mississippi St,VA Commonwealth,22,24,7,8,58,51,136,Southeast,Southeast
+A,R1Y6,Y06,Y11,527,625,527,06,11,Indiana,Boston College,18,18,11,10,51,64,137,Southeast,Southeast
+A,R1Y7,Y07,Y10,789,789,721,07,10,Temple,Oklahoma,19,17,12,12,61,43,137,Southeast,Southeast
+A,R1Y8,Y08,Y09,581,577,581,08,09,Duke,E Michigan,18,22,12,5,60,75,136,Southeast,Southeast
+A,R1Z1,Z01,Z16,738,738,833,01,16,Purdue,W Carolina,25,15,5,11,73,71,136,West,West
+A,R1Z2,Z02,Z15,636,636,747,02,15,Kansas,S Carolina St,25,19,4,7,92,54,137,West,West
+A,R1Z3,Z03,Z14,511,511,826,03,14,Arizona,Valparaiso,24,19,6,10,90,51,137,West,West
+A,R1Z4,Z04,Z13,786,786,681,04,13,Syracuse,Montana St,24,19,8,8,88,55,136,West,West
+A,R1Z5,Z05,Z12,576,666,576,05,12,Memphis,Drexel,22,25,7,3,63,75,136,West,West
+A,R1Z6,Z06,Z11,628,628,599,06,11,Iowa,G Washington,22,21,8,7,81,79,137,West,West
+A,R1Z7,Z07,Z10,758,662,758,07,10,Maryland,Santa Clara,17,19,12,8,79,91,137,West,West
+A,R1Z8,Z08,Z09,604,604,551,08,09,Georgia,Clemson,19,18,9,10,81,74,136,West,West
+A,R2W1,R1W1,R1W8,663,663,783,01,09,Massachusetts,Stanford,31,19,1,8,79,74,138,East,East
+A,R2W2,R1W2,R1W7,603,603,701,02,07,Georgetown,New Mexico,24,26,7,4,73,62,139,East,East
+A,R2W3,R1W3,R1W6,796,796,708,03,06,Texas Tech,North Carolina,28,20,1,10,92,73,139,East,East
+A,R2W4,R1W4,R1W5,515,660,515,04,12,Marquette,Arkansas,22,18,7,12,56,65,138,East,East
+A,R2X1,R1X1,R1X8,640,640,831,01,09,Kentucky,Virginia Tech,28,22,2,5,84,60,138,Midwest,Midwest
+A,R2X2,R1X2,R1X7,839,839,793,02,10,Wake Forest,Texas,23,20,5,9,65,62,139,Midwest,Midwest
+A,R2X3,R1X3,R1X6,651,829,651,03,06,Villanova,Louisville,25,19,6,11,64,68,139,Midwest,Midwest
+A,R2X4,R1X4,R1X5,821,821,629,04,05,Utah,Iowa St,23,22,6,8,73,67,138,Midwest,Midwest
+A,R2Y1,R1Y1,R1Y8,559,559,581,01,09,Connecticut,E Michigan,30,22,2,5,95,81,138,Southeast,Southeast
+A,R2Y2,R1Y2,R1Y7,549,549,789,02,07,Cincinnati,Temple,25,19,4,12,78,65,139,Southeast,Southeast
+A,R2Y3,R1Y3,R1Y6,606,606,527,03,11,Georgia Tech,Boston College,22,18,11,10,103,89,139,Southeast,Southeast
+A,R2Y4,R1Y4,R1Y5,675,736,675,13,05,Princeton,Mississippi St,20,22,6,7,41,63,138,Southeast,Southeast
+A,R2Z1,R1Z1,R1Z8,604,738,604,01,08,Purdue,Georgia,25,19,5,9,69,76,138,West,West
+A,R2Z2,R1Z2,R1Z7,636,636,758,02,10,Kansas,Santa Clara,25,19,4,8,76,51,139,West,West
+A,R2Z3,R1Z3,R1Z6,511,511,628,03,06,Arizona,Iowa,24,22,6,8,87,73,139,West,West
+A,R2Z4,R1Z4,R1Z5,786,786,576,04,12,Syracuse,Drexel,24,25,8,3,69,58,138,West,West
+A,R3W1,R2W1,R2W4,663,663,515,01,12,Massachusetts,Arkansas,31,18,1,12,79,63,143,East,East
+A,R3W2,R2W2,R2W3,603,603,796,02,03,Georgetown,Texas Tech,24,28,7,1,98,90,143,East,East
+A,R3X1,R2X1,R2X4,640,640,821,01,04,Kentucky,Utah,28,23,2,6,101,70,143,Midwest,Midwest
+A,R3X2,R2X2,R2X3,839,839,651,02,06,Wake Forest,Louisville,23,19,5,11,60,59,143,Midwest,Midwest
+A,R3Y1,R2Y1,R2Y4,675,559,675,01,05,Connecticut,Mississippi St,30,22,2,7,55,60,144,Southeast,Southeast
+A,R3Y2,R2Y2,R2Y3,549,549,606,02,03,Cincinnati,Georgia Tech,25,22,4,11,87,70,144,Southeast,Southeast
+A,R3Z1,R2Z1,R2Z4,786,604,786,08,04,Georgia,Syracuse,19,24,9,8,81,83,144,West,West
+A,R3Z2,R2Z2,R2Z3,636,636,511,02,03,Kansas,Arizona,25,24,4,6,83,80,144,West,West
+A,R4W1,R3W1,R3W2,663,663,603,01,02,Massachusetts,Georgetown,31,24,1,7,86,62,145,East,East
+A,R4X1,R3X1,R3X2,640,640,839,01,02,Kentucky,Wake Forest,28,23,2,5,83,63,145,Midwest,Midwest
+A,R4Y1,R3Y1,R3Y2,675,675,549,05,02,Mississippi St,Cincinnati,22,25,7,4,73,63,146,Southeast,Southeast
+A,R4Z1,R3Z1,R3Z2,786,786,636,04,02,Syracuse,Kansas,24,25,8,4,60,57,146,West,West
+A,R5WX,R4W1,R4X1,640,663,640,01,01,Massachusetts,Kentucky,31,28,1,2,74,81,152,East,Midwest
+A,R5YZ,R4Y1,R4Z1,786,675,786,05,04,Mississippi St,Syracuse,22,24,7,8,69,77,152,Southeast,West
+A,R6CH,R5WX,R5YZ,640,640,786,01,04,Kentucky,Syracuse,28,24,2,8,76,67,154,Midwest,West
+B,R1W1,W01,W16,708,708,589,01,16,North Carolina,Fairfield,24,11,6,18,82,74,136,East,East
+B,R1W2,W02,W15,560,769,560,02,15,South Carolina,Coppin St,23,21,7,8,65,78,137,East,East
+B,R1W3,W03,W14,701,701,723,03,14,New Mexico,Old Dominion,23,22,7,10,59,55,137,East,East
+B,R1W4,W04,W13,829,829,648,04,13,Villanova,Long Island,22,21,9,8,101,91,136,East,East
+B,R1W5,W05,W12,539,539,736,05,12,California,Princeton,21,23,8,3,55,52,136,East,East
+B,R1W6,W06,W11,651,651,663,06,11,Louisville,Massachusetts,23,18,8,13,65,57,137,East,East
+B,R1W7,W07,W10,793,849,793,07,10,Wisconsin,Texas,18,16,9,11,58,71,137,East,East
+B,R1W8,W08,W09,556,625,556,08,09,Indiana,Colorado,22,21,10,9,62,80,136,East,East
+B,R1X1,X01,X16,636,636,632,01,16,Kansas,Jackson St,31,13,1,15,78,64,136,Southeast,Southeast
+B,R1X2,X02,X15,577,577,687,02,15,Duke,Murray St,23,17,8,9,71,68,137,Southeast,Southeast
+B,R1X3,X03,X14,547,604,547,03,14,Georgia,Chattanooga,24,18,8,10,70,73,137,Southeast,Southeast
+B,R1X4,X04,X13,511,511,768,04,13,Arizona,South Alabama,19,21,9,6,65,57,136,Southeast,Southeast
+B,R1X5,X05,X12,554,662,554,05,12,Maryland,Col Charleston,21,25,10,2,66,75,136,Southeast,Southeast
+B,R1X6,X06,X11,623,623,818,06,11,Illinois,USC,21,17,9,10,90,77,137,Southeast,Southeast
+B,R1X7,X07,X10,737,660,737,07,10,Marquette,Providence,22,20,8,11,59,81,137,Southeast,Southeast
+B,R1X8,X08,X09,738,738,741,08,09,Purdue,Rhode Island,17,20,11,9,83,76,136,Southeast,Southeast
+B,R1Y1,Y01,Y16,673,673,795,01,16,Minnesota,Texas St,26,15,3,12,78,46,137,Midwest,Midwest
+B,R1Y2,Y02,Y15,810,810,545,02,15,UCLA,Charleston So,21,15,7,12,109,75,136,Midwest,Midwest
+B,R1Y3,Y03,Y14,549,549,535,03,14,Cincinnati,Butler,25,21,7,9,86,69,136,Midwest,Midwest
+B,R1Y4,Y04,Y13,551,551,669,04,13,Clemson,Miami OH,21,21,9,8,68,56,137,Midwest,Midwest
+B,R1Y5,Y05,Y12,802,802,528,05,12,Tulsa,Boston Univ,23,25,9,4,81,52,137,Midwest,Midwest
+B,R1Y6,Y06,Y11,629,629,624,06,11,Iowa St,Illinois St,20,24,8,5,69,57,136,Midwest,Midwest
+B,R1Y7,Y07,Y10,853,853,827,07,10,Xavier,Vanderbilt,22,18,5,11,80,68,136,Midwest,Midwest
+B,R1Y8,Y08,Y09,789,674,789,08,09,Mississippi,Temple,20,19,8,10,40,62,137,Midwest,Midwest
+B,R1Z1,Z01,Z16,640,640,680,01,16,Kentucky,Montana,29,19,4,10,92,54,136,West,West
+B,R1Z2,Z02,Z15,821,821,692,02,15,Utah,Navy,25,18,3,8,75,61,137,West,West
+B,R1Z3,Z03,Z14,839,839,781,03,14,Wake Forest,St Marys CA,23,21,6,7,68,46,137,West,West
+B,R1Z4,Z04,Z13,779,779,727,04,13,St Josephs PA,Pacific,24,22,6,5,75,65,136,West,West
+B,R1Z5,Z05,Z12,527,527,826,05,12,Boston College,Valparaiso,21,22,8,6,73,66,136,West,West
+B,R1Z6,Z06,Z11,783,783,721,06,11,Stanford,Oklahoma,18,19,7,10,80,67,137,West,West
+B,R1Z7,Z07,Z10,546,546,603,07,10,Charlotte,Georgetown,21,19,8,9,79,67,137,West,West
+B,R1Z8,Z08,Z09,628,628,830,08,09,Iowa,Virginia,20,18,9,12,73,60,136,West,West
+B,R2W1,R1W1,R1W8,708,708,556,01,09,North Carolina,Colorado,24,21,6,9,73,56,138,East,East
+B,R2W2,R1W2,R1W7,793,560,793,15,10,Coppin St,Texas,21,16,8,11,81,82,139,East,East
+B,R2W3,R1W3,R1W6,651,701,651,03,06,New Mexico,Louisville,23,23,7,8,63,64,139,East,East
+B,R2W4,R1W4,R1W5,539,829,539,04,05,Villanova,California,22,21,9,8,68,75,138,East,East
+B,R2X1,R1X1,R1X8,636,636,738,01,08,Kansas,Purdue,31,17,1,11,75,61,138,Southeast,Southeast
+B,R2X2,R1X2,R1X7,737,577,737,02,10,Duke,Providence,23,20,8,11,87,98,139,Southeast,Southeast
+B,R2X3,R1X3,R1X6,547,547,623,14,06,Chattanooga,Illinois,18,21,10,9,75,63,139,Southeast,Southeast
+B,R2X4,R1X4,R1X5,511,511,554,04,12,Arizona,Col Charleston,19,25,9,2,73,69,138,Southeast,Southeast
+B,R2Y1,R1Y1,R1Y8,673,673,789,01,09,Minnesota,Temple,26,19,3,10,76,57,139,Midwest,Midwest
+B,R2Y2,R1Y2,R1Y7,810,810,853,02,07,UCLA,Xavier,21,22,7,5,96,83,138,Midwest,Midwest
+B,R2Y3,R1Y3,R1Y6,629,549,629,03,06,Cincinnati,Iowa St,25,20,7,8,66,67,138,Midwest,Midwest
+B,R2Y4,R1Y4,R1Y5,551,551,802,04,05,Clemson,Tulsa,21,23,9,9,65,59,139,Midwest,Midwest
+B,R2Z1,R1Z1,R1Z8,640,640,628,01,08,Kentucky,Iowa,29,20,4,9,75,69,138,West,West
+B,R2Z2,R1Z2,R1Z7,821,821,546,02,07,Utah,Charlotte,25,21,3,8,77,58,139,West,West
+B,R2Z3,R1Z3,R1Z6,783,839,783,03,06,Wake Forest,Stanford,23,18,6,7,66,72,139,West,West
+B,R2Z4,R1Z4,R1Z5,779,779,527,04,05,St Josephs PA,Boston College,24,21,6,8,81,77,138,West,West
+B,R3W1,R2W1,R2W4,708,708,539,01,05,North Carolina,California,24,21,6,8,63,57,144,East,East
+B,R3W2,R2W2,R2W3,651,793,651,10,06,Texas,Louisville,16,23,11,8,63,78,144,East,East
+B,R3X1,R2X1,R2X4,511,636,511,01,04,Kansas,Arizona,31,19,1,9,82,85,144,Southeast,Southeast
+B,R3X2,R2X2,R2X3,737,737,547,10,14,Providence,Chattanooga,20,18,11,10,71,65,144,Southeast,Southeast
+B,R3Y1,R2Y1,R2Y4,673,673,551,01,04,Minnesota,Clemson,26,21,3,9,90,84,143,Midwest,Midwest
+B,R3Y2,R2Y2,R2Y3,810,810,629,02,06,UCLA,Iowa St,21,20,7,8,74,73,143,Midwest,Midwest
+B,R3Z1,R2Z1,R2Z4,640,640,779,01,04,Kentucky,St Josephs PA,29,24,4,6,83,68,143,West,West
+B,R3Z2,R2Z2,R2Z3,821,821,783,02,06,Utah,Stanford,25,18,3,7,82,77,143,West,West
+B,R4W1,R3W1,R3W2,708,708,651,01,06,North Carolina,Louisville,24,23,6,8,97,74,146,East,East
+B,R4X1,R3X1,R3X2,511,511,737,04,10,Arizona,Providence,19,20,9,11,96,92,146,Southeast,Southeast
+B,R4Y1,R3Y1,R3Y2,673,673,810,01,02,Minnesota,UCLA,26,21,3,7,80,72,145,Midwest,Midwest
+B,R4Z1,R3Z1,R3Z2,640,640,821,01,02,Kentucky,Utah,29,25,4,3,72,59,145,West,West
+B,R5WX,R4W1,R4X1,511,708,511,01,04,North Carolina,Arizona,24,19,6,9,58,66,152,East,Southeast
+B,R5YZ,R4Y1,R4Z1,640,673,640,01,01,Minnesota,Kentucky,26,29,3,4,69,78,152,Midwest,West
+B,R6CH,R5WX,R5YZ,511,511,640,04,01,Arizona,Kentucky,19,29,9,4,84,79,154,Southeast,West
+C,R1W1,W01,W16,708,708,692,01,16,North Carolina,Navy,30,17,3,10,88,52,136,East,East
+C,R1W2,W02,W15,559,559,588,02,15,Connecticut,F Dickinson,29,22,4,6,93,85,136,East,East
+C,R1W3,W03,W14,743,769,743,03,14,South Carolina,Richmond,23,22,7,7,61,62,136,East,East
+C,R1W4,W04,W13,671,671,581,04,13,Michigan St,E Michigan,20,19,7,9,83,71,136,East,East
+C,R1W5,W05,W12,736,736,817,05,12,Princeton,UNLV,25,19,1,12,69,57,136,East,East
+C,R1W6,W06,W11,840,853,840,06,11,Xavier,Washington,22,18,7,9,68,69,136,East,East
+C,R1W7,W07,W10,625,625,721,07,10,Indiana,Oklahoma,19,21,11,10,94,87,136,East,East
+C,R1W8,W08,W09,546,546,622,08,09,Charlotte,IL Chicago,19,22,10,5,77,62,136,East,East
+C,R1X1,X01,X16,511,511,705,01,16,Arizona,Nicholls St,27,18,4,9,99,60,136,West,West
+C,R1X2,X02,X15,549,549,713,02,15,Cincinnati,Northern Arizona,26,19,5,7,65,62,136,West,West
+C,R1X3,X03,X14,821,821,755,03,14,Utah,San Francisco,24,19,3,10,85,68,136,West,West
+C,R1X4,X04,X13,662,662,822,04,13,Maryland,Utah St,19,22,10,7,82,68,136,West,West
+C,R1X5,X05,X12,623,623,768,05,12,Illinois,South Alabama,22,21,9,6,64,51,136,West,West
+C,R1X6,X06,X11,515,515,698,06,11,Arkansas,Nebraska,23,20,7,11,74,65,136,West,West
+C,R1X7,X07,X10,843,789,843,07,10,Temple,West Virginia,21,20,8,8,52,82,136,West,West
+C,R1X8,X08,X09,624,790,624,08,09,Tennessee,Illinois St,20,23,8,5,81,82,136,West,West
+C,R1Y1,Y01,Y16,636,636,734,01,16,Kansas,Prairie View,33,10,3,16,110,52,137,Midwest,Midwest
+C,R1Y2,Y02,Y15,738,738,570,02,15,Purdue,Delaware,26,18,7,9,95,56,137,Midwest,Midwest
+C,R1Y3,Y03,Y14,783,783,554,03,14,Stanford,Col Charleston,25,22,4,5,67,57,137,Midwest,Midwest
+C,R1Y4,Y04,Y13,826,674,826,04,13,Mississippi,Valparaiso,22,20,6,8,69,70,137,Midwest,Midwest
+C,R1Y5,Y05,Y12,595,788,595,05,12,TCU,Florida St,26,17,5,13,87,96,137,Midwest,Midwest
+C,R1Y6,Y06,Y11,836,551,836,06,11,Clemson,W Michigan,18,20,13,7,72,75,137,Midwest,Midwest
+C,R1Y7,Y07,Y10,574,778,574,07,10,St Johns,Detroit,21,22,9,5,64,66,137,Midwest,Midwest
+C,R1Y8,Y08,Y09,741,741,687,08,09,Rhode Island,Murray St,22,26,8,3,97,74,137,Midwest,Midwest
+C,R1Z1,Z01,Z16,577,577,740,01,16,Duke,Radford,28,18,3,8,99,63,137,South,South
+C,R1Z2,Z02,Z15,640,640,747,02,15,Kentucky,S Carolina St,29,22,4,6,82,67,137,South,South
+C,R1Z3,Z03,Z14,670,670,568,03,14,Michigan,Davidson,23,18,8,9,80,61,137,South,South
+C,R1Z4,Z04,Z13,701,701,535,04,13,New Mexico,Butler,23,20,7,10,79,62,137,South,South
+C,R1Z5,Z05,Z12,786,786,627,05,12,Syracuse,Iona,24,26,8,5,63,61,137,South,South
+C,R1Z6,Z06,Z11,810,810,668,06,11,UCLA,Miami FL,21,18,8,9,65,62,137,South,South
+C,R1Z7,Z07,Z10,780,663,780,07,10,Massachusetts,St Louis,21,21,10,10,46,51,137,South,South
+C,R1Z8,Z08,Z09,722,722,599,08,09,Oklahoma St,G Washington,21,24,6,8,74,59,137,South,South
+C,R2W1,R1W1,R1W8,708,708,546,01,08,North Carolina,Charlotte,30,19,3,10,93,83,138,East,East
+C,R2W2,R1W2,R1W7,559,559,625,02,07,Connecticut,Indiana,29,19,4,11,78,68,138,East,East
+C,R2W3,R1W3,R1W6,840,743,840,14,11,Richmond,Washington,22,18,7,9,66,81,138,East,East
+C,R2W4,R1W4,R1W5,671,671,736,04,05,Michigan St,Princeton,20,25,7,1,63,56,138,East,East
+C,R2X1,R1X1,R1X8,511,511,624,01,09,Arizona,Illinois St,27,23,4,5,82,49,138,West,West
+C,R2X2,R1X2,R1X7,843,549,843,02,10,Cincinnati,West Virginia,26,20,5,8,74,75,138,West,West
+C,R2X3,R1X3,R1X6,821,821,515,03,06,Utah,Arkansas,24,23,3,7,75,69,138,West,West
+C,R2X4,R1X4,R1X5,662,662,623,04,05,Maryland,Illinois,19,22,10,9,67,61,138,West,West
+C,R2Y1,R1Y1,R1Y8,741,636,741,01,08,Kansas,Rhode Island,33,22,3,8,75,80,139,Midwest,Midwest
+C,R2Y2,R1Y2,R1Y7,738,738,574,02,10,Purdue,Detroit,26,22,7,5,80,65,139,Midwest,Midwest
+C,R2Y3,R1Y3,R1Y6,783,783,836,03,11,Stanford,W Michigan,25,20,4,7,83,65,139,Midwest,Midwest
+C,R2Y4,R1Y4,R1Y5,826,826,595,13,12,Valparaiso,Florida St,20,17,8,13,83,77,139,Midwest,Midwest
+C,R2Z1,R1Z1,R1Z8,577,577,722,01,08,Duke,Oklahoma St,28,21,3,6,79,73,139,South,South
+C,R2Z2,R1Z2,R1Z7,640,640,780,02,10,Kentucky,St Louis,29,21,4,10,88,61,139,South,South
+C,R2Z3,R1Z3,R1Z6,810,670,810,03,06,Michigan,UCLA,23,21,8,8,82,85,139,South,South
+C,R2Z4,R1Z4,R1Z5,786,701,786,04,05,New Mexico,Syracuse,23,24,7,8,46,56,139,South,South
+C,R3W1,R2W1,R2W4,708,708,671,01,04,North Carolina,Michigan St,30,20,3,7,73,58,143,East,East
+C,R3W2,R2W2,R2W3,559,559,840,02,11,Connecticut,Washington,29,18,4,9,75,74,143,East,East
+C,R3X1,R2X1,R2X4,511,511,662,01,04,Arizona,Maryland,27,19,4,10,87,79,143,West,West
+C,R3X2,R2X2,R2X3,821,843,821,10,03,West Virginia,Utah,20,24,8,3,62,65,143,West,West
+C,R3Y1,R2Y1,R2Y4,741,741,826,08,13,Rhode Island,Valparaiso,22,20,8,8,74,68,144,Midwest,Midwest
+C,R3Y2,R2Y2,R2Y3,783,738,783,02,03,Purdue,Stanford,26,25,7,4,59,67,144,Midwest,Midwest
+C,R3Z1,R2Z1,R2Z4,577,577,786,01,05,Duke,Syracuse,28,24,3,8,80,67,144,South,South
+C,R3Z2,R2Z2,R2Z3,640,640,810,02,06,Kentucky,UCLA,29,21,4,8,94,68,144,South,South
+C,R4W1,R3W1,R3W2,708,708,559,01,02,North Carolina,Connecticut,30,29,3,4,75,64,145,East,East
+C,R4X1,R3X1,R3X2,821,511,821,01,03,Arizona,Utah,27,24,4,3,51,76,145,West,West
+C,R4Y1,R3Y1,R3Y2,783,741,783,08,03,Rhode Island,Stanford,22,25,8,4,77,79,146,Midwest,Midwest
+C,R4Z1,R3Z1,R3Z2,640,577,640,01,02,Duke,Kentucky,28,29,3,4,84,86,146,South,South
+C,R5WX,R4W1,R4X1,821,708,821,01,03,North Carolina,Utah,30,24,3,3,59,65,152,East,West
+C,R5YZ,R4Y1,R4Z1,640,783,640,03,02,Stanford,Kentucky,25,29,4,4,85,86,152,Midwest,South
+C,R6CH,R5WX,R5YZ,640,821,640,03,02,Utah,Kentucky,24,29,3,4,69,78,154,West,South
+D,R1W1,W01,W16,577,577,593,01,16,Duke,Florida A&M,32,12,1,18,99,58,137,East,East
+D,R1W2,W02,W15,668,668,642,02,15,Miami FL,Lafayette,22,20,6,7,75,54,137,East,East
+D,R1W3,W03,W14,549,549,602,03,14,Cincinnati,George Mason,26,18,5,10,72,48,137,East,East
+D,R1W4,W04,W13,790,790,570,04,13,Tennessee,Delaware,20,25,8,5,62,52,137,East,East
+D,R1W5,W05,W12,678,849,678,05,12,Wisconsin,Missouri St,22,20,9,10,32,43,137,East,East
+D,R1W6,W06,W11,789,789,639,06,11,Temple,Kent,21,21,10,6,61,54,137,East,East
+D,R1W7,W07,W10,738,793,738,07,10,Texas,Purdue,19,19,12,12,54,58,137,East,East
+D,R1W8,W08,W09,802,554,802,08,09,Col Charleston,Tulsa,25,22,2,9,53,62,137,East,East
+D,R1X1,X01,X16,671,671,686,01,16,Michigan St,Mt St Marys,29,15,4,14,76,53,137,Midwest,Midwest
+D,R1X2,X02,X15,821,821,516,02,15,Utah,Arkansas St,25,18,4,11,80,58,137,Midwest,Midwest
+D,R1X3,X03,X14,640,640,702,03,14,Kentucky,New Mexico St,25,21,8,8,82,60,137,Midwest,Midwest
+D,R1X4,X04,X13,721,511,721,04,13,Arizona,Oklahoma,22,19,6,10,60,61,137,Midwest,Midwest
+D,R1X5,X05,X12,546,546,741,05,12,Charlotte,Rhode Island,22,20,10,12,81,70,137,Midwest,Midwest
+D,R1X6,X06,X11,636,636,587,06,11,Kansas,Evansville,21,21,9,9,95,74,137,Midwest,Midwest
+D,R1X7,X07,X10,669,840,669,07,10,Washington,Miami OH,16,22,11,7,58,59,137,Midwest,Midwest
+D,R1X8,X08,X09,674,829,674,08,09,Villanova,Mississippi,20,18,10,12,70,72,137,Midwest,Midwest
+D,R1Y1,Y01,Y16,518,518,848,01,16,Auburn,Winthrop,27,19,3,7,80,41,136,South,South
+D,R1Y2,Y02,Y15,662,662,826,02,15,Maryland,Valparaiso,25,21,5,8,82,60,136,South,South
+D,R1Y3,Y03,Y14,778,778,752,03,14,St Johns,Samford,25,22,8,5,69,43,136,South,South
+D,R1Y4,Y04,Y13,720,720,687,04,13,Ohio St,Murray St,23,26,8,5,72,58,136,South,South
+D,R1Y5,Y05,Y12,574,810,574,05,12,UCLA,Detroit,22,23,8,5,53,56,136,South,South
+D,R1Y6,Y06,Y11,625,625,599,06,11,Indiana,G Washington,22,20,10,8,108,88,136,South,South
+D,R1Y7,Y07,Y10,562,651,562,07,10,Louisville,Creighton,19,21,10,8,58,62,136,South,South
+D,R1Y8,Y08,Y09,722,786,722,08,09,Syracuse,Oklahoma St,20,21,11,10,61,69,136,South,South
+D,R1Z1,Z01,Z16,559,559,820,01,16,Connecticut,UT San Antonio,28,16,2,10,91,66,136,West,West
+D,R1Z2,Z02,Z15,783,783,508,02,15,Stanford,Alcorn St,24,22,6,6,69,57,136,West,West
+D,R1Z3,Z03,Z14,842,708,842,03,14,North Carolina,Weber St,24,21,9,7,74,76,136,West,West
+D,R1Z4,Z04,Z13,515,515,766,04,13,Arkansas,Siena,22,25,10,5,94,80,136,West,West
+D,R1Z5,Z05,Z12,628,628,805,05,12,Iowa,UAB,18,20,9,11,77,64,136,West,West
+D,R1Z6,Z06,Z11,592,592,728,06,11,Florida,Penn,20,21,8,5,75,61,136,West,West
+D,R1Z7,Z07,Z10,607,673,607,07,10,Minnesota,Gonzaga,17,24,10,6,63,75,136,West,West
+D,R1Z8,Z08,Z09,701,676,701,08,09,Missouri,New Mexico,20,23,8,8,59,61,136,West,West
+D,R2W1,R1W1,R1W8,577,577,802,01,09,Duke,Tulsa,32,22,1,9,97,56,139,East,East
+D,R2W2,R1W2,R1W7,738,668,738,02,10,Miami FL,Purdue,22,19,6,12,63,73,139,East,East
+D,R2W3,R1W3,R1W6,789,549,789,03,06,Cincinnati,Temple,26,21,5,10,54,64,139,East,East
+D,R2W4,R1W4,R1W5,678,790,678,04,12,Tennessee,Missouri St,20,20,8,10,51,81,139,East,East
+D,R2X1,R1X1,R1X8,671,671,674,01,09,Michigan St,Mississippi,29,18,4,12,74,66,139,Midwest,Midwest
+D,R2X2,R1X2,R1X7,669,821,669,02,10,Utah,Miami OH,25,22,4,7,58,66,139,Midwest,Midwest
+D,R2X3,R1X3,R1X6,640,640,636,03,06,Kentucky,Kansas,25,21,8,9,92,88,139,Midwest,Midwest
+D,R2X4,R1X4,R1X5,721,721,546,13,05,Oklahoma,Charlotte,19,22,10,10,85,72,139,Midwest,Midwest
+D,R2Y1,R1Y1,R1Y8,518,518,722,01,09,Auburn,Oklahoma St,27,21,3,10,81,74,138,South,South
+D,R2Y2,R1Y2,R1Y7,662,662,562,02,10,Maryland,Creighton,25,21,5,8,75,63,138,South,South
+D,R2Y3,R1Y3,R1Y6,778,778,625,03,06,St Johns,Indiana,25,22,8,10,86,61,138,South,South
+D,R2Y4,R1Y4,R1Y5,720,720,574,04,12,Ohio St,Detroit,23,23,8,5,75,44,138,South,South
+D,R2Z1,R1Z1,R1Z8,559,559,701,01,09,Connecticut,New Mexico,28,23,2,8,78,56,138,West,West
+D,R2Z2,R1Z2,R1Z7,607,783,607,02,10,Stanford,Gonzaga,24,24,6,6,74,82,138,West,West
+D,R2Z3,R1Z3,R1Z6,592,842,592,14,06,Weber St,Florida,21,20,7,8,74,82,138,West,West
+D,R2Z4,R1Z4,R1Z5,628,515,628,04,05,Arkansas,Iowa,22,18,10,9,72,82,138,West,West
+D,R3W1,R2W1,R2W4,577,577,678,01,12,Duke,Missouri St,32,20,1,10,78,61,144,East,East
+D,R3W2,R2W2,R2W3,789,738,789,10,06,Purdue,Temple,19,21,12,10,55,77,144,East,East
+D,R3X1,R2X1,R2X4,671,671,721,01,13,Michigan St,Oklahoma,29,19,4,10,54,46,144,Midwest,Midwest
+D,R3X2,R2X2,R2X3,640,669,640,10,03,Miami OH,Kentucky,22,25,7,8,43,58,144,Midwest,Midwest
+D,R3Y1,R2Y1,R2Y4,720,518,720,01,04,Auburn,Ohio St,27,23,3,8,64,72,143,South,South
+D,R3Y2,R2Y2,R2Y3,778,662,778,02,03,Maryland,St Johns,25,25,5,8,62,76,143,South,South
+D,R3Z1,R2Z1,R2Z4,559,559,628,01,05,Connecticut,Iowa,28,18,2,9,78,68,143,West,West
+D,R3Z2,R2Z2,R2Z3,607,607,592,10,06,Gonzaga,Florida,24,20,6,8,73,72,143,West,West
+D,R4W1,R3W1,R3W2,577,577,789,01,06,Duke,Temple,32,21,1,10,85,64,146,East,East
+D,R4X1,R3X1,R3X2,671,671,640,01,03,Michigan St,Kentucky,29,25,4,8,73,66,146,Midwest,Midwest
+D,R4Y1,R3Y1,R3Y2,720,720,778,04,03,Ohio St,St Johns,23,25,8,8,77,74,145,South,South
+D,R4Z1,R3Z1,R3Z2,559,559,607,01,10,Connecticut,Gonzaga,28,24,2,6,67,62,145,West,West
+D,R5WX,R4W1,R4X1,577,577,671,01,01,Duke,Michigan St,32,29,1,4,68,62,152,East,Midwest
+D,R5YZ,R4Y1,R4Z1,559,720,559,04,01,Ohio St,Connecticut,23,28,8,2,58,64,152,South,West
+D,R6CH,R5WX,R5YZ,559,577,559,01,01,Duke,Connecticut,32,28,1,2,74,77,154,East,West
+E,R1W1,W01,W16,671,671,826,01,16,Michigan St,Valparaiso,26,17,7,12,65,38,136,Midwest,Midwest
+E,R1W2,W02,W15,629,629,544,02,15,Iowa St,Central Conn,27,25,4,5,88,78,136,Midwest,Midwest
+E,R1W3,W03,W14,662,662,627,03,14,Maryland,Iona,24,20,9,10,74,59,136,Midwest,Midwest
+E,R1W4,W04,W13,786,786,752,04,13,Syracuse,Samford,24,20,5,10,79,65,136,Midwest,Midwest
+E,R1W5,W05,W12,640,640,775,05,12,Kentucky,St Bonaventure,21,21,9,9,85,80,136,Midwest,Midwest
+E,R1W6,W06,W11,810,810,520,06,11,UCLA,Ball St,19,21,11,8,65,57,136,Midwest,Midwest
+E,R1W7,W07,W10,518,518,562,07,10,Auburn,Creighton,22,23,9,9,72,69,136,Midwest,Midwest
+E,R1W8,W08,W09,821,821,780,08,09,Utah,St Louis,20,19,8,13,48,45,136,Midwest,Midwest
+E,R1X1,X01,X16,511,511,632,01,16,Arizona,Jackson St,26,16,6,15,71,47,136,West,West
+E,R1X2,X02,X15,778,778,713,02,15,St Johns,Northern Arizona,24,18,7,10,61,56,136,West,West
+E,R1X3,X03,X14,721,721,848,03,14,Oklahoma,Winthrop,26,18,6,8,74,50,136,West,West
+E,R1X4,X04,X13,655,655,762,04,13,LSU,SE Missouri St,26,22,5,6,64,61,136,West,West
+E,R1X5,X05,X12,793,793,626,05,12,Texas,Indiana St,23,22,8,9,77,61,136,West,West
+E,R1X6,X06,X11,738,738,569,06,11,Purdue,Dayton,20,22,9,8,62,61,136,West,West
+E,R1X7,X07,X10,607,651,607,07,10,Louisville,Gonzaga,18,24,11,8,66,77,136,West,West
+E,R1X8,X08,X09,849,849,597,08,09,Wisconsin,Fresno St,18,24,13,9,66,56,136,West,West
+E,R1Y1,Y01,Y16,577,577,643,01,16,Duke,Lamar,27,15,4,15,82,55,137,East,East
+E,R1Y2,Y02,Y15,789,789,642,02,15,Temple,Lafayette,26,22,5,6,73,47,137,East,East
+E,R1Y3,Y03,Y14,722,722,615,03,14,Oklahoma St,Hofstra,23,24,6,6,86,66,137,East,East
+E,R1Y4,Y04,Y13,623,623,728,04,13,Illinois,Penn,21,21,9,7,68,58,137,East,East
+E,R1Y5,Y05,Y12,592,592,535,05,12,Florida,Butler,24,23,7,7,69,68,137,East,East
+E,R1Y6,Y06,Y11,730,625,730,06,11,Indiana,Pepperdine,20,24,8,8,57,77,137,East,East
+E,R1Y7,Y07,Y10,764,725,764,07,10,Oregon,Seton Hall,21,20,7,9,71,72,137,East,East
+E,R1Y8,Y08,Y09,636,636,573,08,09,Kansas,DePaul,22,20,9,11,81,77,137,East,East
+E,R1Z1,Z01,Z16,783,783,747,01,16,Stanford,S Carolina St,25,20,3,13,84,65,137,South,South
+E,R1Z2,Z02,Z15,549,549,816,02,15,Cincinnati,UNC Wilmington,28,18,3,12,64,47,137,South,South
+E,R1Z3,Z03,Z14,720,720,510,03,14,Ohio St,Appalachian St,22,20,6,8,87,61,137,South,South
+E,R1Z4,Z04,Z13,790,790,811,04,13,Tennessee,ULL,23,25,6,8,63,58,137,South,South
+E,R1Z5,Z05,Z12,559,559,822,05,12,Connecticut,Utah St,24,24,9,5,75,67,137,South,South
+E,R1Z6,Z06,Z11,668,668,515,06,11,Miami FL,Arkansas,21,19,10,14,75,71,137,South,South
+E,R1Z7,Z07,Z10,802,802,817,07,10,Tulsa,UNLV,29,23,4,7,89,62,137,South,South
+E,R1Z8,Z08,Z09,708,708,676,08,09,North Carolina,Missouri,18,18,13,12,84,70,137,South,South
+E,R2W1,R1W1,R1W8,671,671,821,01,08,Michigan St,Utah,26,20,7,8,73,61,138,Midwest,Midwest
+E,R2W2,R1W2,R1W7,629,629,518,02,07,Iowa St,Auburn,27,22,4,9,79,60,138,Midwest,Midwest
+E,R2W3,R1W3,R1W6,810,662,810,03,06,Maryland,UCLA,24,19,9,11,70,105,138,Midwest,Midwest
+E,R2W4,R1W4,R1W5,786,786,640,04,05,Syracuse,Kentucky,24,21,5,9,52,50,138,Midwest,Midwest
+E,R2X1,R1X1,R1X8,849,511,849,01,08,Arizona,Wisconsin,26,18,6,13,59,66,138,West,West
+E,R2X2,R1X2,R1X7,607,778,607,02,10,St Johns,Gonzaga,24,24,7,8,76,82,138,West,West
+E,R2X3,R1X3,R1X6,738,721,738,03,06,Oklahoma,Purdue,26,20,6,9,62,66,138,West,West
+E,R2X4,R1X4,R1X5,655,655,793,04,05,LSU,Texas,26,23,5,8,72,67,138,West,West
+E,R2Y1,R1Y1,R1Y8,577,577,636,01,08,Duke,Kansas,27,22,4,9,69,64,139,East,East
+E,R2Y2,R1Y2,R1Y7,764,789,764,02,10,Temple,Seton Hall,26,20,5,9,65,67,139,East,East
+E,R2Y3,R1Y3,R1Y6,722,722,730,03,11,Oklahoma St,Pepperdine,23,24,6,8,75,67,139,East,East
+E,R2Y4,R1Y4,R1Y5,592,623,592,04,05,Illinois,Florida,21,24,9,7,76,93,139,East,East
+E,R2Z1,R1Z1,R1Z8,708,783,708,01,08,Stanford,North Carolina,25,18,3,13,53,60,139,South,South
+E,R2Z2,R1Z2,R1Z7,802,549,802,02,07,Cincinnati,Tulsa,28,29,3,4,61,69,139,South,South
+E,R2Z3,R1Z3,R1Z6,668,720,668,03,06,Ohio St,Miami FL,22,21,6,10,62,75,139,South,South
+E,R2Z4,R1Z4,R1Z5,790,790,559,04,05,Tennessee,Connecticut,23,24,6,9,65,51,139,South,South
+E,R3W1,R2W1,R2W4,671,671,786,01,04,Michigan St,Syracuse,26,24,7,5,75,58,143,Midwest,Midwest
+E,R3W2,R2W2,R2W3,629,629,810,02,06,Iowa St,UCLA,27,19,4,11,80,56,143,Midwest,Midwest
+E,R3X1,R2X1,R2X4,849,849,655,08,04,Wisconsin,LSU,18,26,13,5,61,48,143,West,West
+E,R3X2,R2X2,R2X3,738,607,738,10,06,Gonzaga,Purdue,24,20,8,9,66,75,143,West,West
+E,R3Y1,R2Y1,R2Y4,592,577,592,01,05,Duke,Florida,27,24,4,7,78,87,144,East,East
+E,R3Y2,R2Y2,R2Y3,722,764,722,10,03,Seton Hall,Oklahoma St,20,23,9,6,66,68,144,East,East
+E,R3Z1,R2Z1,R2Z4,708,708,790,08,04,North Carolina,Tennessee,18,23,13,6,74,69,144,South,South
+E,R3Z2,R2Z2,R2Z3,802,802,668,07,06,Tulsa,Miami FL,29,21,4,10,80,71,144,South,South
+E,R4W1,R3W1,R3W2,671,671,629,01,02,Michigan St,Iowa St,26,27,7,4,75,64,145,Midwest,Midwest
+E,R4X1,R3X1,R3X2,849,849,738,08,06,Wisconsin,Purdue,18,20,13,9,64,60,145,West,West
+E,R4Y1,R3Y1,R3Y2,592,592,722,05,03,Florida,Oklahoma St,24,23,7,6,77,65,146,East,East
+E,R4Z1,R3Z1,R3Z2,708,708,802,08,07,North Carolina,Tulsa,18,29,13,4,59,55,146,South,South
+E,R5WX,R4W1,R4X1,671,671,849,01,08,Michigan St,Wisconsin,26,18,7,13,53,41,152,Midwest,West
+E,R5YZ,R4Y1,R4Z1,592,592,708,05,08,Florida,North Carolina,24,18,7,13,71,59,152,East,South
+E,R6CH,R5WX,R5YZ,671,671,592,01,05,Michigan St,Florida,26,24,7,7,89,76,154,Midwest,East
+F,Y16,Y16a,Y16b,716,716,848,16,16,Northwestern LA,Winthrop,18,17,12,12,71,67,134,Midwest,Midwest
+F,R1W1,W01,W16,577,577,679,01,16,Duke,Monmouth NJ,29,21,4,9,95,52,136,East,East
+F,R1W2,W02,W15,640,640,616,02,15,Kentucky,Holy Cross,22,22,9,7,72,68,136,East,East
+F,R1W3,W03,W14,527,527,774,03,14,Boston College,Southern Utah,26,23,4,5,68,65,136,East,East
+F,R1W4,W04,W13,810,810,615,04,13,UCLA,Hofstra,21,26,8,4,61,48,136,East,East
+F,R1W5,W05,W12,822,720,822,05,12,Ohio St,Utah St,20,25,10,5,68,77,136,East,East
+F,R1W6,W06,W11,818,818,722,06,11,USC,Oklahoma St,20,19,9,9,69,54,136,East,East
+F,R1W7,W07,W10,628,628,562,07,10,Iowa,Creighton,22,24,11,7,69,56,136,East,East
+F,R1W8,W08,W09,676,604,676,08,09,Georgia,Missouri,16,19,14,12,68,70,136,East,East
+F,R1X1,X01,X16,783,783,815,01,16,Stanford,UNC Greensboro,27,18,2,11,89,60,136,West,West
+F,R1X2,X02,X15,610,629,610,02,15,Iowa St,Hampton,24,24,5,6,57,58,136,West,West
+F,R1X3,X03,X14,662,662,602,03,14,Maryland,George Mason,21,18,10,11,83,80,136,West,West
+F,R1X4,X04,X13,639,625,639,04,13,Indiana,Kent,21,22,12,9,73,77,136,West,West
+F,R1X5,X05,X12,549,549,536,05,12,Cincinnati,BYU,23,24,9,8,84,59,136,West,West
+F,R1X6,X06,X11,605,849,605,06,11,Wisconsin,Georgia St,18,27,10,4,49,50,136,West,West
+F,R1X7,X07,X10,603,515,603,07,10,Arkansas,Georgetown,20,23,10,7,61,63,136,West,West
+F,R1X8,X08,X09,779,606,779,08,09,Georgia Tech,St Josephs PA,17,25,12,6,62,66,136,West,West
+F,R1Y1,Y01,Y16,623,623,716,01,16,Illinois,Northwestern LA,24,18,7,12,96,54,137,Midwest,Midwest
+F,R1Y2,Y02,Y15,511,511,579,02,15,Arizona,E Illinois,22,19,7,9,101,76,137,Midwest,Midwest
+F,R1Y3,Y03,Y14,674,674,627,03,14,Mississippi,Iona,25,21,7,10,72,70,137,Midwest,Midwest
+F,R1Y4,Y04,Y13,636,636,565,04,13,Kansas,CS Northridge,22,20,6,9,99,75,137,Midwest,Midwest
+F,R1Y5,Y05,Y12,786,786,613,05,12,Syracuse,Hawaii,24,17,8,13,79,69,137,Midwest,Midwest
+F,R1Y6,Y06,Y11,717,717,853,06,11,Notre Dame,Xavier,19,21,9,7,83,71,137,Midwest,Midwest
+F,R1Y7,Y07,Y10,535,839,535,07,10,Wake Forest,Butler,19,23,10,7,63,79,137,Midwest,Midwest
+F,R1Y8,Y08,Y09,546,790,546,08,09,Tennessee,Charlotte,22,21,10,10,63,70,137,Midwest,Midwest
+F,R1Z1,Z01,Z16,671,671,506,01,16,Michigan St,Alabama St,24,22,4,8,69,35,137,South,South
+F,R1Z2,Z02,Z15,708,708,736,02,15,North Carolina,Princeton,25,15,6,10,70,48,137,South,South
+F,R1Z3,Z03,Z14,592,592,835,03,14,Florida,W Kentucky,23,22,6,6,69,56,137,South,South
+F,R1Z4,Z04,Z13,626,721,626,04,13,Oklahoma,Indiana St,26,20,6,11,68,70,137,South,South
+F,R1Z5,Z05,Z12,607,830,607,05,12,Virginia,Gonzaga,20,23,8,6,85,86,137,South,South
+F,R1Z6,Z06,Z11,789,793,789,06,11,Texas,Temple,25,21,8,12,65,79,137,South,South
+F,R1Z7,Z07,Z10,729,729,737,07,10,Penn St,Providence,19,20,11,9,69,59,137,South,South
+F,R1Z8,Z08,Z09,597,539,597,08,09,California,Fresno St,20,25,10,6,70,82,137,South,South
+F,R2W1,R1W1,R1W8,577,577,676,01,09,Duke,Missouri,29,19,4,12,94,81,138,East,East
+F,R2W2,R1W2,R1W7,640,640,628,02,07,Kentucky,Iowa,22,22,9,11,92,79,138,East,East
+F,R2W3,R1W3,R1W6,818,527,818,03,06,Boston College,USC,26,20,4,9,71,74,138,East,East
+F,R2W4,R1W4,R1W5,810,810,822,04,12,UCLA,Utah St,21,25,8,5,75,50,138,East,East
+F,R2X1,R1X1,R1X8,783,783,779,01,09,Stanford,St Josephs PA,27,25,2,6,90,83,138,West,West
+F,R2X2,R1X2,R1X7,603,610,603,15,10,Hampton,Georgetown,24,23,6,7,57,76,138,West,West
+F,R2X3,R1X3,R1X6,662,662,605,03,11,Maryland,Georgia St,21,27,10,4,79,60,138,West,West
+F,R2X4,R1X4,R1X5,549,639,549,13,05,Kent,Cincinnati,22,23,9,9,43,66,138,West,West
+F,R2Y1,R1Y1,R1Y8,623,623,546,01,09,Illinois,Charlotte,24,21,7,10,79,61,139,Midwest,Midwest
+F,R2Y2,R1Y2,R1Y7,511,511,535,02,10,Arizona,Butler,22,23,7,7,73,52,139,Midwest,Midwest
+F,R2Y3,R1Y3,R1Y6,674,674,717,03,06,Mississippi,Notre Dame,25,19,7,9,59,56,139,Midwest,Midwest
+F,R2Y4,R1Y4,R1Y5,636,636,786,04,05,Kansas,Syracuse,22,24,6,8,87,58,139,Midwest,Midwest
+F,R2Z1,R1Z1,R1Z8,671,671,597,01,09,Michigan St,Fresno St,24,25,4,6,81,65,139,South,South
+F,R2Z2,R1Z2,R1Z7,729,708,729,02,07,North Carolina,Penn St,25,19,6,11,74,82,139,South,South
+F,R2Z3,R1Z3,R1Z6,789,592,789,03,11,Florida,Temple,23,21,6,12,54,75,139,South,South
+F,R2Z4,R1Z4,R1Z5,607,626,607,13,12,Indiana St,Gonzaga,20,23,11,6,68,85,139,South,South
+F,R3W1,R2W1,R2W4,577,577,810,01,04,Duke,UCLA,29,21,4,8,76,63,143,East,East
+F,R3W2,R2W2,R2W3,818,640,818,02,06,Kentucky,USC,22,20,9,9,76,80,143,East,East
+F,R3X1,R2X1,R2X4,783,783,549,01,05,Stanford,Cincinnati,27,23,2,9,78,65,143,West,West
+F,R3X2,R2X2,R2X3,662,603,662,10,03,Georgetown,Maryland,23,21,7,10,66,76,143,West,West
+F,R3Y1,R2Y1,R2Y4,623,623,636,01,04,Illinois,Kansas,24,22,7,6,80,64,144,Midwest,Midwest
+F,R3Y2,R2Y2,R2Y3,511,511,674,02,03,Arizona,Mississippi,22,25,7,7,66,56,144,Midwest,Midwest
+F,R3Z1,R2Z1,R2Z4,671,671,607,01,12,Michigan St,Gonzaga,24,23,4,6,77,62,144,South,South
+F,R3Z2,R2Z2,R2Z3,789,729,789,07,11,Penn St,Temple,19,21,11,12,72,84,144,South,South
+F,R4W1,R3W1,R3W2,577,577,818,01,06,Duke,USC,29,20,4,9,79,69,145,East,East
+F,R4X1,R3X1,R3X2,662,783,662,01,03,Stanford,Maryland,27,21,2,10,73,87,145,West,West
+F,R4Y1,R3Y1,R3Y2,511,623,511,01,02,Illinois,Arizona,24,22,7,7,81,87,146,Midwest,Midwest
+F,R4Z1,R3Z1,R3Z2,671,671,789,01,11,Michigan St,Temple,24,21,4,12,69,62,146,South,South
+F,R5WX,R4W1,R4X1,577,577,662,01,03,Duke,Maryland,29,21,4,10,95,84,152,East,West
+F,R5YZ,R4Y1,R4Z1,511,511,671,02,01,Arizona,Michigan St,22,24,7,4,80,61,152,Midwest,South
+F,R6CH,R5WX,R5YZ,577,577,511,01,02,Duke,Arizona,29,22,4,7,82,72,154,East,Midwest
+G,W16,W16a,W16b,766,508,766,16,16,Alcorn St,Siena,20,16,9,18,77,81,134,East,East
+G,R1W1,W01,W16,662,662,766,01,16,Maryland,Siena,26,16,4,18,85,70,137,East,East
+G,R1W2,W02,W15,559,559,610,02,15,Connecticut,Hampton,24,25,6,6,78,67,137,East,East
+G,R1W3,W03,W14,604,604,687,03,14,Georgia,Murray St,21,17,9,12,85,68,137,East,East
+G,R1W4,W04,W13,640,640,826,04,13,Kentucky,Valparaiso,19,24,9,7,83,68,136,East,East
+G,R1W5,W05,W12,802,660,802,05,12,Marquette,Tulsa,26,25,6,6,69,71,136,East,East
+G,R1W6,W06,W11,749,796,749,06,11,Texas Tech,S Illinois,23,26,8,7,68,76,137,East,East
+G,R1W7,W07,W10,695,695,671,07,10,NC State,Michigan St,22,19,10,11,69,58,137,East,East
+G,R1W8,W08,W09,849,849,778,08,09,Wisconsin,St Johns,17,20,12,11,80,70,137,East,East
+G,R1X1,X01,X16,636,636,616,01,16,Kansas,Holy Cross,27,18,3,14,70,59,136,Midwest,Midwest
+G,R1X2,X02,X15,725,725,680,02,15,Oregon,Montana,22,14,8,14,81,62,136,Midwest,Midwest
+G,R1X3,X03,X14,675,675,664,03,14,Mississippi St,McNeese St,26,20,7,8,70,58,137,Midwest,Midwest
+G,R1X4,X04,X13,623,623,754,04,13,Illinois,San Diego St,24,20,8,11,93,64,137,Midwest,Midwest
+G,R1X5,X05,X12,562,592,562,05,12,Florida,Creighton,22,22,8,8,82,83,137,Midwest,Midwest
+G,R1X6,X06,X11,793,793,527,06,11,Texas,Boston College,20,20,11,11,70,57,137,Midwest,Midwest
+G,R1X7,X07,X10,839,839,730,07,10,Wake Forest,Pepperdine,20,21,12,8,83,74,136,Midwest,Midwest
+G,R1X8,X08,X09,783,783,835,08,09,Stanford,W Kentucky,19,26,9,3,84,68,136,Midwest,Midwest
+G,R1Y1,Y01,Y16,577,577,848,01,16,Duke,Winthrop,29,17,3,11,84,37,136,South,South
+G,R1Y2,Y02,Y15,504,504,590,02,15,Alabama,FL Atlantic,26,18,7,11,86,78,136,South,South
+G,R1Y3,Y03,Y14,731,731,544,03,14,Pittsburgh,Central Conn,27,27,5,4,71,54,137,South,South
+G,R1Y4,Y04,Y13,816,818,816,04,13,USC,UNC Wilmington,22,22,9,9,89,93,136,South,South
+G,R1Y5,Y05,Y12,625,625,821,05,12,Indiana,Utah,19,19,11,8,75,56,136,South,South
+G,R1Y6,Y06,Y11,539,539,728,06,11,California,Penn,22,25,8,6,82,75,137,South,South
+G,R1Y7,Y07,Y10,639,722,639,07,10,Oklahoma St,Kent,23,26,8,5,61,69,136,South,South
+G,R1Y8,Y08,Y09,717,717,546,08,09,Notre Dame,Charlotte,20,18,10,11,82,63,136,South,South
+G,R1Z1,Z01,Z16,549,549,528,01,16,Cincinnati,Boston Univ,30,22,3,9,90,52,137,West,West
+G,R1Z2,Z02,Z15,721,721,622,02,15,Oklahoma,IL Chicago,27,18,4,13,71,63,137,West,West
+G,R1Z3,Z03,Z14,511,511,757,03,14,Arizona,Santa Barbara,22,19,9,10,86,81,136,West,West
+G,R1Z4,Z04,Z13,720,720,568,04,13,Ohio St,Davidson,23,18,7,9,69,64,136,West,West
+G,R1Z5,Z05,Z12,676,668,676,05,12,Miami FL,Missouri,24,21,7,11,80,93,136,West,West
+G,R1Z6,Z06,Z11,852,607,852,06,11,Gonzaga,Wyoming,28,20,3,8,66,73,136,West,West
+G,R1Z7,Z07,Z10,853,853,613,07,10,Xavier,Hawaii,25,27,5,5,70,58,137,West,West
+G,R1Z8,Z08,Z09,810,810,674,08,09,UCLA,Mississippi,19,19,11,10,80,58,137,West,West
+G,R2W1,R1W1,R1W8,662,662,849,01,08,Maryland,Wisconsin,26,17,4,12,87,57,139,East,East
+G,R2W2,R1W2,R1W7,559,559,695,02,07,Connecticut,NC State,24,22,6,10,77,74,139,East,East
+G,R2W3,R1W3,R1W6,749,604,749,03,11,Georgia,S Illinois,21,26,9,7,75,77,139,East,East
+G,R2W4,R1W4,R1W5,640,640,802,04,12,Kentucky,Tulsa,19,25,9,6,87,82,138,East,East
+G,R2X1,R1X1,R1X8,636,636,783,01,08,Kansas,Stanford,27,19,3,9,86,63,138,Midwest,Midwest
+G,R2X2,R1X2,R1X7,725,725,839,02,07,Oregon,Wake Forest,22,20,8,12,92,87,138,Midwest,Midwest
+G,R2X3,R1X3,R1X6,793,675,793,03,06,Mississippi St,Texas,26,20,7,11,64,68,139,Midwest,Midwest
+G,R2X4,R1X4,R1X5,623,623,562,04,12,Illinois,Creighton,24,22,8,8,72,60,139,Midwest,Midwest
+G,R2Y1,R1Y1,R1Y8,577,577,717,01,08,Duke,Notre Dame,29,20,3,10,84,77,138,South,South
+G,R2Y2,R1Y2,R1Y7,639,504,639,02,10,Alabama,Kent,26,26,7,5,58,71,138,South,South
+G,R2Y3,R1Y3,R1Y6,731,731,539,03,06,Pittsburgh,California,27,22,5,8,63,50,139,South,South
+G,R2Y4,R1Y4,R1Y5,625,816,625,13,05,UNC Wilmington,Indiana,22,19,9,11,67,76,138,South,South
+G,R2Z1,R1Z1,R1Z8,810,549,810,01,08,Cincinnati,UCLA,30,19,3,11,101,105,139,West,West
+G,R2Z2,R1Z2,R1Z7,721,721,853,02,07,Oklahoma,Xavier,27,25,4,5,78,65,139,West,West
+G,R2Z3,R1Z3,R1Z6,511,511,852,03,11,Arizona,Wyoming,22,20,9,8,68,60,138,West,West
+G,R2Z4,R1Z4,R1Z5,676,720,676,04,12,Ohio St,Missouri,23,21,7,11,67,83,138,West,West
+G,R3W1,R2W1,R2W4,662,662,640,01,04,Maryland,Kentucky,26,19,4,9,78,68,144,East,East
+G,R3W2,R2W2,R2W3,559,559,749,02,11,Connecticut,S Illinois,24,26,6,7,71,59,144,East,East
+G,R3X1,R2X1,R2X4,636,636,623,01,04,Kansas,Illinois,27,24,3,8,73,69,144,Midwest,Midwest
+G,R3X2,R2X2,R2X3,725,725,793,02,06,Oregon,Texas,22,20,8,11,72,70,144,Midwest,Midwest
+G,R3Y1,R2Y1,R2Y4,625,577,625,01,05,Duke,Indiana,29,19,3,11,73,74,143,South,South
+G,R3Y2,R2Y2,R2Y3,639,639,731,10,03,Kent,Pittsburgh,26,27,5,5,78,73,143,South,South
+G,R3Z1,R2Z1,R2Z4,676,810,676,08,12,UCLA,Missouri,19,21,11,11,73,82,143,West,West
+G,R3Z2,R2Z2,R2Z3,721,721,511,02,03,Oklahoma,Arizona,27,22,4,9,88,67,143,West,West
+G,R4W1,R3W1,R3W2,662,662,559,01,02,Maryland,Connecticut,26,24,4,6,90,82,146,East,East
+G,R4X1,R3X1,R3X2,636,636,725,01,02,Kansas,Oregon,27,22,3,8,104,86,146,Midwest,Midwest
+G,R4Y1,R3Y1,R3Y2,625,625,639,05,10,Indiana,Kent,19,26,11,5,81,69,145,South,South
+G,R4Z1,R3Z1,R3Z2,721,676,721,12,02,Missouri,Oklahoma,21,27,11,4,75,81,145,West,West
+G,R5WX,R4W1,R4X1,662,662,636,01,01,Maryland,Kansas,26,27,4,3,97,88,152,East,Midwest
+G,R5YZ,R4Y1,R4Z1,625,625,721,05,02,Indiana,Oklahoma,19,27,11,4,73,64,152,South,West
+G,R6CH,R5WX,R5YZ,662,662,625,01,05,Maryland,Indiana,26,19,4,11,64,52,154,East,South
+H,X16,X16a,X16b,814,804,814,16,16,TX Southern,UNC Asheville,18,13,12,16,84,92,134,South,South
+H,R1W1,W01,W16,721,721,747,01,16,Oklahoma,S Carolina St,24,20,6,10,71,54,136,East,East
+H,R1W2,W02,W15,839,839,586,02,15,Wake Forest,ETSU,24,17,5,10,76,73,137,East,East
+H,R1W3,W03,W14,786,786,658,03,14,Syracuse,Manhattan,24,23,5,6,76,65,137,East,East
+H,R1W4,W04,W13,651,651,519,04,13,Louisville,Austin Peay,24,20,6,7,86,64,137,East,East
+H,R1W5,W05,W12,535,675,535,05,12,Mississippi St,Butler,21,24,9,5,46,47,137,East,East
+H,R1W6,W06,W11,722,722,728,06,11,Oklahoma St,Penn,20,22,9,5,77,63,137,East,East
+H,R1W7,W07,W10,518,779,518,07,10,St Josephs PA,Auburn,23,19,6,11,63,65,137,East,East
+H,R1W8,W08,W09,539,539,695,08,09,California,NC State,21,18,8,12,76,74,136,East,East
+H,R1X1,X01,X16,793,793,814,01,16,Texas,UNC Asheville,22,13,6,16,82,61,137,South,South
+H,R1X2,X02,X15,592,592,751,02,15,Florida,Sam Houston St,24,21,7,6,85,55,137,South,South
+H,R1X3,X03,X14,853,853,800,03,14,Xavier,Troy,25,25,5,5,71,59,137,South,South
+H,R1X4,X04,X13,783,783,753,04,13,Stanford,San Diego,23,17,8,11,77,69,136,South,South
+H,R1X5,X05,X12,559,559,536,05,12,Connecticut,BYU,21,23,9,8,58,53,136,South,South
+H,R1X6,X06,X11,662,662,816,06,11,Maryland,UNC Wilmington,19,24,9,6,75,73,137,South,South
+H,R1X7,X07,X10,671,671,556,07,10,Michigan St,Colorado,19,20,12,11,79,64,137,South,South
+H,R1X8,X08,X09,738,655,738,08,09,LSU,Purdue,21,18,10,10,56,80,137,South,South
+H,R1Y1,Y01,Y16,640,640,631,01,16,Kentucky,IUPUI,29,19,3,13,95,64,137,Midwest,Midwest
+H,R1Y2,Y02,Y15,731,731,838,02,15,Pittsburgh,Wagner,26,21,4,10,87,61,137,Midwest,Midwest
+H,R1Y3,Y03,Y14,660,660,616,03,14,Marquette,Holy Cross,23,25,5,4,72,68,136,Midwest,Midwest
+H,R1Y4,Y04,Y13,802,569,802,04,13,Dayton,Tulsa,24,22,5,9,71,84,136,Midwest,Midwest
+H,R1Y5,Y05,Y12,849,849,842,05,12,Wisconsin,Weber St,22,25,7,4,81,74,136,Midwest,Midwest
+H,R1Y6,Y06,Y11,676,676,749,06,11,Missouri,S Illinois,21,24,10,6,72,71,136,Midwest,Midwest
+H,R1Y7,Y07,Y10,625,625,504,07,10,Indiana,Alabama,20,17,12,11,67,62,137,Midwest,Midwest
+H,R1Y8,Y08,Y09,821,725,821,08,09,Oregon,Utah,23,23,9,7,58,60,137,Midwest,Midwest
+H,R1Z1,Z01,Z16,511,511,828,01,16,Arizona,Vermont,25,19,3,10,80,51,136,West,West
+H,R1Z2,Z02,Z15,636,636,822,02,15,Kansas,Utah St,23,22,7,8,64,61,136,West,West
+H,R1Z3,Z03,Z14,577,577,557,03,14,Duke,Colorado St,24,17,6,13,67,57,136,West,West
+H,R1Z4,Z04,Z13,623,623,835,04,13,Illinois,W Kentucky,24,23,6,8,65,60,136,West,West
+H,R1Z5,Z05,Z12,717,717,845,05,12,Notre Dame,WI Milwaukee,22,23,9,7,70,69,136,West,West
+H,R1Z6,Z06,Z11,537,562,537,06,11,Creighton,C Michigan,29,23,4,6,73,79,136,West,West
+H,R1Z7,Z07,Z10,512,666,512,07,10,Memphis,Arizona St,23,18,6,11,71,84,136,West,West
+H,R1Z8,Z08,Z09,607,549,607,08,09,Cincinnati,Gonzaga,17,23,11,8,69,74,136,West,West
+H,R2W1,R1W1,R1W8,721,721,539,01,08,Oklahoma,California,24,21,6,8,74,65,138,East,East
+H,R2W2,R1W2,R1W7,518,839,518,02,10,Wake Forest,Auburn,24,19,5,11,62,68,139,East,East
+H,R2W3,R1W3,R1W6,786,786,722,03,06,Syracuse,Oklahoma St,24,20,5,9,68,56,139,East,East
+H,R2W4,R1W4,R1W5,535,651,535,04,12,Louisville,Butler,24,24,6,5,71,79,139,East,East
+H,R2X1,R1X1,R1X8,793,793,738,01,09,Texas,Purdue,22,18,6,10,77,67,139,South,South
+H,R2X2,R1X2,R1X7,671,592,671,02,07,Florida,Michigan St,24,19,7,12,46,68,139,South,South
+H,R2X3,R1X3,R1X6,662,853,662,03,06,Xavier,Maryland,25,19,5,9,64,77,139,South,South
+H,R2X4,R1X4,R1X5,559,783,559,04,05,Stanford,Connecticut,23,21,8,9,74,85,138,South,South
+H,R2Y1,R1Y1,R1Y8,640,640,821,01,09,Kentucky,Utah,29,23,3,7,74,54,139,Midwest,Midwest
+H,R2Y2,R1Y2,R1Y7,731,731,625,02,07,Pittsburgh,Indiana,26,20,4,12,74,52,139,Midwest,Midwest
+H,R2Y3,R1Y3,R1Y6,660,660,676,03,06,Marquette,Missouri,23,21,5,10,101,92,138,Midwest,Midwest
+H,R2Y4,R1Y4,R1Y5,849,802,849,13,05,Tulsa,Wisconsin,22,22,9,7,60,61,138,Midwest,Midwest
+H,R2Z1,R1Z1,R1Z8,511,511,607,01,09,Arizona,Gonzaga,25,23,3,8,96,95,138,West,West
+H,R2Z2,R1Z2,R1Z7,636,636,512,02,10,Kansas,Arizona St,23,18,7,11,108,76,138,West,West
+H,R2Z3,R1Z3,R1Z6,577,577,537,03,11,Duke,C Michigan,24,23,6,6,86,60,138,West,West
+H,R2Z4,R1Z4,R1Z5,717,623,717,04,05,Illinois,Notre Dame,24,22,6,9,60,68,138,West,West
+H,R3W1,R2W1,R2W4,721,721,535,01,12,Oklahoma,Butler,24,24,6,5,65,54,144,East,East
+H,R3W2,R2W2,R2W3,786,518,786,10,03,Auburn,Syracuse,19,24,11,5,78,79,144,East,East
+H,R3X1,R2X1,R2X4,793,793,559,01,05,Texas,Connecticut,22,21,6,9,82,78,144,South,South
+H,R3X2,R2X2,R2X3,671,671,662,07,06,Michigan St,Maryland,19,19,12,9,60,58,144,South,South
+H,R3Y1,R2Y1,R2Y4,640,640,849,01,05,Kentucky,Wisconsin,29,22,3,7,63,57,143,Midwest,Midwest
+H,R3Y2,R2Y2,R2Y3,660,731,660,02,03,Pittsburgh,Marquette,26,23,4,5,74,77,143,Midwest,Midwest
+H,R3Z1,R2Z1,R2Z4,511,511,717,01,05,Arizona,Notre Dame,25,22,3,9,88,71,143,West,West
+H,R3Z2,R2Z2,R2Z3,636,636,577,02,03,Kansas,Duke,23,24,7,6,69,65,143,West,West
+H,R4W1,R3W1,R3W2,786,721,786,01,03,Oklahoma,Syracuse,24,24,6,5,47,63,146,East,East
+H,R4X1,R3X1,R3X2,793,793,671,01,07,Texas,Michigan St,22,19,6,12,85,76,146,South,South
+H,R4Y1,R3Y1,R3Y2,660,640,660,01,03,Kentucky,Marquette,29,23,3,5,69,83,145,Midwest,Midwest
+H,R4Z1,R3Z1,R3Z2,636,511,636,01,02,Arizona,Kansas,25,23,3,7,75,78,145,West,West
+H,R5WX,R4W1,R4X1,786,786,793,03,01,Syracuse,Texas,24,22,5,6,95,84,152,East,South
+H,R5YZ,R4Y1,R4Z1,636,660,636,03,02,Marquette,Kansas,23,23,5,7,61,94,152,Midwest,West
+H,R6CH,R5WX,R5YZ,786,786,636,03,02,Syracuse,Kansas,24,23,5,7,81,78,154,East,West
+I,Z16,Z16a,Z16b,593,593,644,16,16,Florida A&M,Lehigh,14,18,16,10,72,57,134,StLouis,StLouis
+I,R1W1,W01,W16,577,577,506,01,16,Duke,Alabama St,27,16,5,14,96,61,136,Atlanta,Atlanta
+I,R1W2,W02,W15,675,675,679,02,15,Mississippi St,Monmouth NJ,25,21,3,11,85,52,137,Atlanta,Atlanta
+I,R1W3,W03,W14,793,793,736,03,14,Texas,Princeton,23,19,7,7,66,49,136,Atlanta,Atlanta
+I,R1W4,W04,W13,549,549,586,04,13,Cincinnati,ETSU,24,24,6,5,80,77,137,Atlanta,Atlanta
+I,R1W5,W05,W12,623,623,687,05,12,Illinois,Murray St,24,25,6,5,72,53,137,Atlanta,Atlanta
+I,R1W6,W06,W11,708,708,502,06,11,North Carolina,Air Force,18,22,10,6,63,52,136,Atlanta,Atlanta
+I,R1W7,W07,W10,853,853,651,07,10,Xavier,Louisville,23,20,10,9,80,70,137,Atlanta,Atlanta
+I,R1W8,W08,W09,764,764,511,08,09,Seton Hall,Arizona,19,20,9,9,80,76,136,Atlanta,Atlanta
+I,R1X1,X01,X16,783,783,820,01,16,Stanford,UT San Antonio,29,16,1,12,71,45,136,Phoenix,Phoenix
+I,R1X2,X02,X15,559,559,828,02,15,Connecticut,Vermont,27,22,6,8,70,53,136,Phoenix,Phoenix
+I,R1X3,X03,X14,695,695,811,03,14,NC State,ULL,20,18,9,8,61,52,137,Phoenix,Phoenix
+I,R1X4,X04,X13,662,662,824,04,13,Maryland,UTEP,19,22,11,7,86,83,136,Phoenix,Phoenix
+I,R1X5,X05,X12,786,786,536,05,12,Syracuse,BYU,21,19,7,8,80,75,136,Phoenix,Phoenix
+I,R1X6,X06,X11,827,827,836,06,11,Vanderbilt,W Michigan,21,26,9,4,71,58,137,Phoenix,Phoenix
+I,R1X7,X07,X10,573,573,569,07,10,DePaul,Dayton,21,24,9,8,76,69,136,Phoenix,Phoenix
+I,R1X8,X08,X09,504,504,749,08,09,Alabama,S Illinois,17,25,12,4,65,64,136,Phoenix,Phoenix
+I,R1Y1,Y01,Y16,779,779,645,01,16,St Josephs PA,Liberty,27,17,1,14,82,63,136,EastRutherford,EastRutherford
+I,R1Y2,Y02,Y15,722,722,582,02,15,Oklahoma St,E Washington,26,16,3,12,75,56,137,EastRutherford,EastRutherford
+I,R1Y3,Y03,Y14,731,731,809,03,14,Pittsburgh,UCF,28,24,4,5,53,44,137,EastRutherford,EastRutherford
+I,R1Y4,Y04,Y13,839,839,825,04,13,Wake Forest,VA Commonwealth,19,23,9,7,79,78,136,EastRutherford,EastRutherford
+I,R1Y5,Y05,Y12,658,592,658,05,12,Florida,Manhattan,20,24,10,5,60,75,136,EastRutherford,EastRutherford
+I,R1Y6,Y06,Y11,849,849,743,06,11,Wisconsin,Richmond,24,20,6,12,76,64,137,EastRutherford,EastRutherford
+I,R1Y7,Y07,Y10,666,666,769,07,10,Memphis,South Carolina,21,23,7,10,59,43,137,EastRutherford,EastRutherford
+I,R1Y8,Y08,Y09,796,796,546,08,09,Texas Tech,Charlotte,22,21,10,8,76,73,136,EastRutherford,EastRutherford
+I,R1Z1,Z01,Z16,640,640,593,01,16,Kentucky,Florida A&M,26,14,4,16,96,76,137,StLouis,StLouis
+I,R1Z2,Z02,Z15,607,607,826,02,15,Gonzaga,Valparaiso,27,17,2,12,76,49,136,StLouis,StLouis
+I,R1Z3,Z03,Z14,606,606,714,03,14,Georgia Tech,Northern Iowa,23,20,9,9,65,60,137,StLouis,StLouis
+I,R1Z4,Z04,Z13,636,636,622,04,13,Kansas,IL Chicago,20,24,8,7,78,53,137,StLouis,StLouis
+I,R1Z5,Z05,Z12,727,737,727,05,12,Providence,Pacific,20,23,8,7,58,66,137,StLouis,StLouis
+I,R1Z6,Z06,Z11,527,527,821,06,11,Boston College,Utah,23,23,9,8,58,51,137,StLouis,StLouis
+I,R1Z7,Z07,Z10,699,671,699,07,10,Michigan St,Nevada,18,22,11,8,66,72,136,StLouis,StLouis
+I,R1Z8,Z08,Z09,805,840,805,08,09,Washington,UAB,19,20,11,9,100,102,137,StLouis,StLouis
+I,R2W1,R1W1,R1W8,577,577,764,01,08,Duke,Seton Hall,27,19,5,9,90,62,138,Atlanta,Atlanta
+I,R2W2,R1W2,R1W7,853,675,853,02,07,Mississippi St,Xavier,25,23,3,10,74,89,139,Atlanta,Atlanta
+I,R2W3,R1W3,R1W6,793,793,708,03,06,Texas,North Carolina,23,18,7,10,78,75,138,Atlanta,Atlanta
+I,R2W4,R1W4,R1W5,623,549,623,04,05,Cincinnati,Illinois,24,24,6,6,68,92,139,Atlanta,Atlanta
+I,R2X1,R1X1,R1X8,504,783,504,01,08,Stanford,Alabama,29,17,1,12,67,70,138,Phoenix,Phoenix
+I,R2X2,R1X2,R1X7,559,559,573,02,07,Connecticut,DePaul,27,21,6,9,72,55,138,Phoenix,Phoenix
+I,R2X3,R1X3,R1X6,827,695,827,03,06,NC State,Vanderbilt,20,21,9,9,73,75,139,Phoenix,Phoenix
+I,R2X4,R1X4,R1X5,786,662,786,04,05,Maryland,Syracuse,19,21,11,7,70,72,138,Phoenix,Phoenix
+I,R2Y1,R1Y1,R1Y8,779,779,796,01,08,St Josephs PA,Texas Tech,27,22,1,10,70,65,138,EastRutherford,EastRutherford
+I,R2Y2,R1Y2,R1Y7,722,722,666,02,07,Oklahoma St,Memphis,26,21,3,7,70,53,139,EastRutherford,EastRutherford
+I,R2Y3,R1Y3,R1Y6,731,731,849,03,06,Pittsburgh,Wisconsin,28,24,4,6,59,55,139,EastRutherford,EastRutherford
+I,R2Y4,R1Y4,R1Y5,839,839,658,04,12,Wake Forest,Manhattan,19,24,9,5,84,80,138,EastRutherford,EastRutherford
+I,R2Z1,R1Z1,R1Z8,805,640,805,01,09,Kentucky,UAB,26,20,4,9,75,76,139,StLouis,StLouis
+I,R2Z2,R1Z2,R1Z7,699,607,699,02,10,Gonzaga,Nevada,27,22,2,8,72,91,138,StLouis,StLouis
+I,R2Z3,R1Z3,R1Z6,606,606,527,03,06,Georgia Tech,Boston College,23,23,9,9,57,54,139,StLouis,StLouis
+I,R2Z4,R1Z4,R1Z5,636,636,727,04,12,Kansas,Pacific,20,23,8,7,78,63,139,StLouis,StLouis
+I,R3W1,R2W1,R2W4,577,577,623,01,05,Duke,Illinois,27,24,5,6,72,62,144,Atlanta,Atlanta
+I,R3W2,R2W2,R2W3,853,853,793,07,03,Xavier,Texas,23,23,10,7,79,71,144,Atlanta,Atlanta
+I,R3X1,R2X1,R2X4,504,504,786,08,05,Alabama,Syracuse,17,21,12,7,80,71,143,Phoenix,Phoenix
+I,R3X2,R2X2,R2X3,559,559,827,02,06,Connecticut,Vanderbilt,27,21,6,9,73,53,143,Phoenix,Phoenix
+I,R3Y1,R2Y1,R2Y4,779,779,839,01,04,St Josephs PA,Wake Forest,27,19,1,9,84,80,143,EastRutherford,EastRutherford
+I,R3Y2,R2Y2,R2Y3,722,722,731,02,03,Oklahoma St,Pittsburgh,26,28,3,4,63,51,143,EastRutherford,EastRutherford
+I,R3Z1,R2Z1,R2Z4,636,805,636,09,04,UAB,Kansas,20,20,9,8,74,100,144,StLouis,StLouis
+I,R3Z2,R2Z2,R2Z3,606,699,606,10,03,Nevada,Georgia Tech,22,23,8,9,67,72,144,StLouis,StLouis
+I,R4W1,R3W1,R3W2,577,577,853,01,07,Duke,Xavier,27,23,5,10,66,63,146,Atlanta,Atlanta
+I,R4X1,R3X1,R3X2,559,504,559,08,02,Alabama,Connecticut,17,27,12,6,71,87,145,Phoenix,Phoenix
+I,R4Y1,R3Y1,R3Y2,722,779,722,01,02,St Josephs PA,Oklahoma St,27,26,1,3,62,64,145,EastRutherford,EastRutherford
+I,R4Z1,R3Z1,R3Z2,606,636,606,04,03,Kansas,Georgia Tech,20,23,8,9,71,79,146,StLouis,StLouis
+I,R5WX,R4W1,R4X1,559,577,559,01,02,Duke,Connecticut,27,27,5,6,78,79,152,Atlanta,Phoenix
+I,R5YZ,R4Y1,R4Z1,606,722,606,02,03,Oklahoma St,Georgia Tech,26,23,3,9,65,67,152,EastRutherford,StLouis
+I,R6CH,R5WX,R5YZ,559,559,606,02,03,Connecticut,Georgia Tech,27,23,6,9,82,73,154,Phoenix,StLouis
+J,Z16,Z16a,Z16b,718,505,718,16,16,Alabama A&M,Oakland,16,11,13,18,69,79,134,Syracuse,Syracuse
+J,R1W1,W01,W16,840,840,680,01,16,Washington,Montana,26,16,5,12,88,77,136,Albuquerque,Albuquerque
+J,R1W2,W02,W15,839,839,547,02,15,Wake Forest,Chattanooga,26,17,5,10,70,54,136,Albuquerque,Albuquerque
+J,R1W3,W03,W14,607,607,848,03,14,Gonzaga,Winthrop,25,24,4,5,74,64,136,Albuquerque,Albuquerque
+J,R1W4,W04,W13,651,651,811,04,13,Louisville,ULL,27,19,4,10,68,62,137,Albuquerque,Albuquerque
+J,R1W5,W05,W12,606,606,599,05,12,Georgia Tech,G Washington,19,22,11,7,80,68,137,Albuquerque,Albuquerque
+J,R1W6,W06,W11,796,796,810,06,11,Texas Tech,UCLA,20,18,10,10,78,66,136,Albuquerque,Albuquerque
+J,R1W7,W07,W10,843,843,562,07,10,West Virginia,Creighton,21,23,10,10,63,61,136,Albuquerque,Albuquerque
+J,R1W8,W08,W09,727,727,731,08,09,Pacific,Pittsburgh,26,20,3,8,79,71,136,Albuquerque,Albuquerque
+J,R1X1,X01,X16,623,623,588,01,16,Illinois,F Dickinson,32,19,1,12,67,55,136,Chicago,Chicago
+J,R1X2,X02,X15,722,722,761,02,15,Oklahoma St,SE Louisiana,23,19,6,8,63,50,137,Chicago,Chicago
+J,R1X3,X03,X14,511,511,822,03,14,Arizona,Utah St,27,24,6,7,66,53,136,Chicago,Chicago
+J,R1X4,X04,X13,527,527,728,04,13,Boston College,Penn,24,20,4,8,85,65,136,Chicago,Chicago
+J,R1X5,X05,X12,845,504,845,05,12,Alabama,WI Milwaukee,23,22,7,5,73,83,136,Chicago,Chicago
+J,R1X6,X06,X11,805,655,805,06,11,LSU,UAB,20,21,9,10,68,82,136,Chicago,Chicago
+J,R1X7,X07,X10,749,749,781,07,10,S Illinois,St Marys CA,25,23,7,8,65,56,137,Chicago,Chicago
+J,R1X8,X08,X09,699,793,699,08,09,Texas,Nevada,19,23,10,6,57,61,136,Chicago,Chicago
+J,R1Y1,Y01,Y16,577,577,571,01,16,Duke,Delaware St,25,19,5,13,57,46,137,Austin,Austin
+J,R1Y2,Y02,Y15,640,640,580,02,15,Kentucky,E Kentucky,25,19,5,8,72,64,136,Austin,Austin
+J,R1Y3,Y03,Y14,721,721,704,03,14,Oklahoma,Niagara,24,20,7,9,84,67,136,Austin,Austin
+J,R1Y4,Y04,Y13,828,786,828,04,13,Syracuse,Vermont,27,24,6,6,57,60,137,Austin,Austin
+J,R1Y5,Y05,Y12,671,671,723,05,12,Michigan St,Old Dominion,22,27,6,5,89,81,137,Austin,Austin
+J,R1Y6,Y06,Y11,821,821,824,06,11,Utah,UTEP,25,25,5,7,60,54,136,Austin,Austin
+J,R1Y7,Y07,Y10,549,549,628,07,10,Cincinnati,Iowa,24,21,7,11,76,64,136,Austin,Austin
+J,R1Y8,Y08,Y09,675,783,675,08,09,Stanford,Mississippi St,18,22,12,10,70,93,137,Austin,Austin
+J,R1Z1,Z01,Z16,708,708,718,01,16,North Carolina,Oakland,27,11,4,18,96,68,137,Syracuse,Syracuse
+J,R1Z2,Z02,Z15,559,559,809,02,15,Connecticut,UCF,22,21,7,8,77,71,137,Syracuse,Syracuse
+J,R1Z3,Z03,Z14,533,636,533,03,14,Kansas,Bucknell,23,22,6,9,63,64,137,Syracuse,Syracuse
+J,R1Z4,Z04,Z13,592,592,719,04,13,Florida,Ohio,23,21,7,10,67,62,137,Syracuse,Syracuse
+J,R1Z5,Z05,Z12,829,829,701,05,12,Villanova,New Mexico,22,25,7,6,55,47,137,Syracuse,Syracuse
+J,R1Z6,Z06,Z11,849,849,714,06,11,Wisconsin,Northern Iowa,22,20,8,10,57,52,137,Syracuse,Syracuse
+J,R1Z7,Z07,Z10,695,546,695,07,10,Charlotte,NC State,21,19,7,13,63,75,137,Syracuse,Syracuse
+J,R1Z8,Z08,Z09,629,673,629,08,09,Minnesota,Iowa St,21,18,10,11,53,64,137,Syracuse,Syracuse
+J,R2W1,R1W1,R1W8,840,840,727,01,08,Washington,Pacific,26,26,5,3,97,79,138,Albuquerque,Albuquerque
+J,R2W2,R1W2,R1W7,843,839,843,02,07,Wake Forest,West Virginia,26,21,5,10,105,111,138,Albuquerque,Albuquerque
+J,R2W3,R1W3,R1W6,796,607,796,03,06,Gonzaga,Texas Tech,25,20,4,10,69,71,138,Albuquerque,Albuquerque
+J,R2W4,R1W4,R1W5,651,651,606,04,05,Louisville,Georgia Tech,27,19,4,11,76,54,139,Albuquerque,Albuquerque
+J,R2X1,R1X1,R1X8,623,623,699,01,09,Illinois,Nevada,32,23,1,6,71,59,138,Chicago,Chicago
+J,R2X2,R1X2,R1X7,722,722,749,02,07,Oklahoma St,S Illinois,23,25,6,7,85,77,139,Chicago,Chicago
+J,R2X3,R1X3,R1X6,511,511,805,03,11,Arizona,UAB,27,21,6,10,85,63,138,Chicago,Chicago
+J,R2X4,R1X4,R1X5,845,527,845,04,12,Boston College,WI Milwaukee,24,22,4,5,75,83,138,Chicago,Chicago
+J,R2Y1,R1Y1,R1Y8,577,577,675,01,09,Duke,Mississippi St,25,22,5,10,63,55,139,Austin,Austin
+J,R2Y2,R1Y2,R1Y7,640,640,549,02,07,Kentucky,Cincinnati,25,24,5,7,69,60,138,Austin,Austin
+J,R2Y3,R1Y3,R1Y6,821,721,821,03,06,Oklahoma,Utah,24,25,7,5,58,67,138,Austin,Austin
+J,R2Y4,R1Y4,R1Y5,671,828,671,13,05,Vermont,Michigan St,24,22,6,6,61,72,139,Austin,Austin
+J,R2Z1,R1Z1,R1Z8,708,708,629,01,09,North Carolina,Iowa St,27,18,4,11,92,65,139,Syracuse,Syracuse
+J,R2Z2,R1Z2,R1Z7,695,559,695,02,10,Connecticut,NC State,22,19,7,13,62,65,139,Syracuse,Syracuse
+J,R2Z3,R1Z3,R1Z6,849,533,849,14,06,Bucknell,Wisconsin,22,22,9,8,62,71,139,Syracuse,Syracuse
+J,R2Z4,R1Z4,R1Z5,829,592,829,04,05,Florida,Villanova,23,22,7,7,65,76,139,Syracuse,Syracuse
+J,R3W1,R2W1,R2W4,651,840,651,01,04,Washington,Louisville,26,27,5,4,79,93,143,Albuquerque,Albuquerque
+J,R3W2,R2W2,R2W3,843,843,796,07,06,West Virginia,Texas Tech,21,20,10,10,65,60,143,Albuquerque,Albuquerque
+J,R3X1,R2X1,R2X4,623,623,845,01,12,Illinois,WI Milwaukee,32,22,1,5,77,63,143,Chicago,Chicago
+J,R3X2,R2X2,R2X3,511,722,511,02,03,Oklahoma St,Arizona,23,27,6,6,78,79,143,Chicago,Chicago
+J,R3Y1,R2Y1,R2Y4,671,577,671,01,05,Duke,Michigan St,25,22,5,6,68,78,144,Austin,Austin
+J,R3Y2,R2Y2,R2Y3,640,640,821,02,06,Kentucky,Utah,25,25,5,5,62,52,144,Austin,Austin
+J,R3Z1,R2Z1,R2Z4,708,708,829,01,05,North Carolina,Villanova,27,22,4,7,67,66,144,Syracuse,Syracuse
+J,R3Z2,R2Z2,R2Z3,849,695,849,10,06,NC State,Wisconsin,19,22,13,8,56,65,144,Syracuse,Syracuse
+J,R4W1,R3W1,R3W2,651,651,843,04,07,Louisville,West Virginia,27,21,4,10,93,85,145,Albuquerque,Albuquerque
+J,R4X1,R3X1,R3X2,623,623,511,01,03,Illinois,Arizona,32,27,1,6,90,89,145,Chicago,Chicago
+J,R4Y1,R3Y1,R3Y2,671,671,640,05,02,Michigan St,Kentucky,22,25,6,5,94,88,146,Austin,Austin
+J,R4Z1,R3Z1,R3Z2,708,708,849,01,06,North Carolina,Wisconsin,27,22,4,8,88,82,146,Syracuse,Syracuse
+J,R5WX,R4W1,R4X1,623,651,623,04,01,Louisville,Illinois,27,32,4,1,57,72,152,Albuquerque,Chicago
+J,R5YZ,R4Y1,R4Z1,708,671,708,05,01,Michigan St,North Carolina,22,27,6,4,71,87,152,Austin,Syracuse
+J,R6CH,R5WX,R5YZ,708,623,708,01,01,Illinois,North Carolina,32,27,1,4,70,75,154,Chicago,Syracuse
+K,Y16,Y16a,Y16b,679,610,679,16,16,Hampton,Monmouth NJ,16,18,15,14,49,71,134,Minneapolis,Minneapolis
+K,R1W1,W01,W16,577,577,773,01,16,Duke,Southern Univ,30,19,3,12,70,54,136,Atlanta,Atlanta
+K,R1W2,W02,W15,793,793,728,02,15,Texas,Penn,27,19,6,8,60,52,137,Atlanta,Atlanta
+K,R1W3,W03,W14,716,628,716,03,14,Iowa,Northwestern LA,25,22,8,7,63,64,137,Atlanta,Atlanta
+K,R1W4,W04,W13,655,655,627,04,13,LSU,Iona,22,23,8,7,80,64,136,Atlanta,Atlanta
+K,R1W5,W05,W12,794,786,794,05,12,Syracuse,Texas A&M,23,21,11,8,58,66,136,Atlanta,Atlanta
+K,R1W6,W06,W11,843,843,749,06,11,West Virginia,S Illinois,19,22,10,9,64,46,137,Atlanta,Atlanta
+K,R1W7,W07,W10,695,539,695,07,10,California,NC State,20,21,10,9,52,58,137,Atlanta,Atlanta
+K,R1W8,W08,W09,599,599,816,08,09,G Washington,UNC Wilmington,26,25,2,7,88,85,136,Atlanta,Atlanta
+K,R1X1,X01,X16,666,666,724,01,16,Memphis,Oral Roberts,30,20,3,11,94,78,137,Oakland,Oakland
+K,R1X2,X02,X15,810,810,522,02,15,UCLA,Belmont,27,20,6,10,78,44,136,Oakland,Oakland
+K,R1X3,X03,X14,607,607,853,03,14,Gonzaga,Xavier,27,21,3,10,79,75,136,Oakland,Oakland
+K,R1X4,X04,X13,530,636,530,04,13,Kansas,Bradley,24,20,7,10,73,77,137,Oakland,Oakland
+K,R1X5,X05,X12,731,731,639,05,12,Pittsburgh,Kent,24,24,7,8,79,64,137,Oakland,Oakland
+K,R1X6,X06,X11,625,625,754,06,11,Indiana,San Diego St,18,22,11,8,87,83,136,Oakland,Oakland
+K,R1X7,X07,X10,504,660,504,07,10,Marquette,Alabama,19,17,10,12,85,90,136,Oakland,Oakland
+K,R1X8,X08,X09,533,515,533,08,09,Arkansas,Bucknell,22,25,9,4,55,59,137,Oakland,Oakland
+K,R1Y1,Y01,Y16,829,829,679,01,16,Villanova,Monmouth NJ,25,18,4,14,58,45,137,Minneapolis,Minneapolis
+K,R1Y2,Y02,Y15,720,720,568,02,15,Ohio St,Davidson,25,17,5,10,70,62,137,Minneapolis,Minneapolis
+K,R1Y3,Y03,Y14,592,592,768,03,14,Florida,South Alabama,27,23,6,6,76,50,136,Minneapolis,Minneapolis
+K,R1Y4,Y04,Y13,527,527,727,04,13,Boston College,Pacific,25,22,7,7,88,76,136,Minneapolis,Minneapolis
+K,R1Y5,Y05,Y12,680,699,680,05,12,Nevada,Montana,26,21,5,6,79,87,136,Minneapolis,Minneapolis
+K,R1Y6,Y06,Y11,845,721,845,06,11,Oklahoma,WI Milwaukee,20,20,8,8,74,82,136,Minneapolis,Minneapolis
+K,R1Y7,Y07,Y10,603,603,714,07,10,Georgetown,Northern Iowa,21,21,9,9,54,49,137,Minneapolis,Minneapolis
+K,R1Y8,Y08,Y09,511,511,849,08,09,Arizona,Wisconsin,19,19,12,11,94,75,137,Minneapolis,Minneapolis
+K,R1Z1,Z01,Z16,559,559,507,01,16,Connecticut,Albany NY,27,21,3,10,72,59,137,WashingtonDC,WashingtonDC
+K,R1Z2,Z02,Z15,790,790,848,02,15,Tennessee,Winthrop,21,21,7,7,63,61,136,WashingtonDC,WashingtonDC
+K,R1Z3,Z03,Z14,708,708,687,03,14,North Carolina,Murray St,22,23,7,6,69,65,137,WashingtonDC,WashingtonDC
+K,R1Z4,Z04,Z13,623,623,502,04,13,Illinois,Air Force,25,22,6,6,78,69,136,WashingtonDC,WashingtonDC
+K,R1Z5,Z05,Z12,840,840,822,05,12,Washington,Utah St,24,22,6,8,75,61,136,WashingtonDC,WashingtonDC
+K,R1Z6,Z06,Z11,602,671,602,06,11,Michigan St,George Mason,21,23,11,7,65,75,137,WashingtonDC,WashingtonDC
+K,R1Z7,Z07,Z10,846,846,764,07,10,Wichita St,Seton Hall,23,18,8,11,86,66,136,WashingtonDC,WashingtonDC
+K,R1Z8,Z08,Z09,640,640,805,08,09,Kentucky,UAB,21,23,12,6,69,64,137,WashingtonDC,WashingtonDC
+K,R2W1,R1W1,R1W8,577,577,599,01,08,Duke,G Washington,30,26,3,2,74,61,138,Atlanta,Atlanta
+K,R2W2,R1W2,R1W7,793,793,695,02,10,Texas,NC State,27,21,6,9,75,54,139,Atlanta,Atlanta
+K,R2W3,R1W3,R1W6,843,716,843,14,06,Northwestern LA,West Virginia,22,19,7,10,54,67,139,Atlanta,Atlanta
+K,R2W4,R1W4,R1W5,655,655,794,04,12,LSU,Texas A&M,22,21,8,8,58,57,138,Atlanta,Atlanta
+K,R2X1,R1X1,R1X8,666,666,533,01,09,Memphis,Bucknell,30,25,3,4,72,56,139,Oakland,Oakland
+K,R2X2,R1X2,R1X7,810,810,504,02,10,UCLA,Alabama,27,17,6,12,62,59,138,Oakland,Oakland
+K,R2X3,R1X3,R1X6,607,607,625,03,06,Gonzaga,Indiana,27,18,3,11,90,80,138,Oakland,Oakland
+K,R2X4,R1X4,R1X5,530,530,731,13,05,Bradley,Pittsburgh,20,24,10,7,72,66,139,Oakland,Oakland
+K,R2Y1,R1Y1,R1Y8,829,829,511,01,08,Villanova,Arizona,25,19,4,12,82,78,139,Minneapolis,Minneapolis
+K,R2Y2,R1Y2,R1Y7,603,720,603,02,07,Ohio St,Georgetown,25,21,5,9,52,70,139,Minneapolis,Minneapolis
+K,R2Y3,R1Y3,R1Y6,592,592,845,03,11,Florida,WI Milwaukee,27,20,6,8,82,60,138,Minneapolis,Minneapolis
+K,R2Y4,R1Y4,R1Y5,527,527,680,04,12,Boston College,Montana,25,21,7,6,69,56,138,Minneapolis,Minneapolis
+K,R2Z1,R1Z1,R1Z8,559,559,640,01,08,Connecticut,Kentucky,27,21,3,12,87,83,139,WashingtonDC,WashingtonDC
+K,R2Z2,R1Z2,R1Z7,846,790,846,02,07,Tennessee,Wichita St,21,23,7,8,73,80,138,WashingtonDC,WashingtonDC
+K,R2Z3,R1Z3,R1Z6,602,708,602,03,11,North Carolina,George Mason,22,23,7,7,60,65,139,WashingtonDC,WashingtonDC
+K,R2Z4,R1Z4,R1Z5,840,623,840,04,05,Illinois,Washington,25,24,6,6,64,67,138,WashingtonDC,WashingtonDC
+K,R3W1,R2W1,R2W4,655,577,655,01,04,Duke,LSU,30,22,3,8,54,62,143,Atlanta,Atlanta
+K,R3W2,R2W2,R2W3,793,793,843,02,06,Texas,West Virginia,27,19,6,10,74,71,143,Atlanta,Atlanta
+K,R3X1,R2X1,R2X4,666,666,530,01,13,Memphis,Bradley,30,20,3,10,80,64,143,Oakland,Oakland
+K,R3X2,R2X2,R2X3,810,810,607,02,03,UCLA,Gonzaga,27,27,6,3,73,71,143,Oakland,Oakland
+K,R3Y1,R2Y1,R2Y4,829,829,527,01,04,Villanova,Boston College,25,25,4,7,60,59,144,Minneapolis,Minneapolis
+K,R3Y2,R2Y2,R2Y3,592,603,592,07,03,Georgetown,Florida,21,27,9,6,53,57,144,Minneapolis,Minneapolis
+K,R3Z1,R2Z1,R2Z4,559,559,840,01,05,Connecticut,Washington,27,24,3,6,98,92,144,WashingtonDC,WashingtonDC
+K,R3Z2,R2Z2,R2Z3,602,846,602,07,11,Wichita St,George Mason,23,23,8,7,55,63,144,WashingtonDC,WashingtonDC
+K,R4W1,R3W1,R3W2,655,655,793,04,02,LSU,Texas,22,27,8,6,70,60,145,Atlanta,Atlanta
+K,R4X1,R3X1,R3X2,810,666,810,01,02,Memphis,UCLA,30,27,3,6,45,50,145,Oakland,Oakland
+K,R4Y1,R3Y1,R3Y2,592,829,592,01,03,Villanova,Florida,25,27,4,6,62,75,146,Minneapolis,Minneapolis
+K,R4Z1,R3Z1,R3Z2,602,559,602,01,11,Connecticut,George Mason,27,23,3,7,84,86,146,WashingtonDC,WashingtonDC
+K,R5WX,R4W1,R4X1,810,655,810,04,02,LSU,UCLA,22,27,8,6,45,59,152,Atlanta,Oakland
+K,R5YZ,R4Y1,R4Z1,592,592,602,03,11,Florida,George Mason,27,23,6,7,73,58,152,Minneapolis,WashingtonDC
+K,R6CH,R5WX,R5YZ,592,810,592,02,03,UCLA,Florida,27,27,6,6,57,73,154,Oakland,Minneapolis
+L,Z16,Z16a,Z16b,704,593,704,16,16,Florida A&M,Niagara,18,22,13,11,69,77,134,West,West
+L,R1W1,W01,W16,708,708,580,01,16,North Carolina,E Kentucky,28,19,6,11,86,65,136,East,East
+L,R1W2,W02,W15,603,603,522,02,15,Georgetown,Belmont,26,22,6,9,80,55,136,East,East
+L,R1W3,W03,W14,841,841,724,03,14,Washington St,Oral Roberts,25,22,7,10,70,54,136,East,East
+L,R1W4,W04,W13,793,793,702,04,13,Texas,New Mexico St,24,24,9,8,79,67,137,East,East
+L,R1W5,W05,W12,818,818,515,05,12,USC,Arkansas,23,21,11,13,77,60,137,East,East
+L,R1W6,W06,W11,827,827,599,06,11,Vanderbilt,G Washington,19,23,11,8,77,44,136,East,East
+L,R1W7,W07,W10,527,527,796,07,10,Boston College,Texas Tech,20,21,11,12,84,75,136,East,East
+L,R1W8,W08,W09,671,660,671,08,09,Marquette,Michigan St,23,22,9,11,49,61,136,East,East
+L,R1X1,X01,X16,720,720,544,01,16,Ohio St,Central Conn,30,22,3,11,78,57,136,South,South
+L,R1X2,X02,X15,666,666,711,02,15,Memphis,North Texas,30,20,3,10,73,58,137,South,South
+L,R1X3,X03,X14,794,794,728,03,14,Texas A&M,Penn,25,21,6,8,68,52,136,South,South
+L,R1X4,X04,X13,830,830,507,04,13,Virginia,Albany NY,19,23,10,9,84,57,137,South,South
+L,R1X5,X05,X12,790,790,647,05,12,Tennessee,Long Beach St,22,23,10,7,121,86,137,South,South
+L,R1X6,X06,X11,651,651,783,06,11,Louisville,Stanford,22,18,9,12,78,58,136,South,South
+L,R1X7,X07,X10,699,699,562,07,10,Nevada,Creighton,27,22,4,10,77,71,137,South,South
+L,R1X8,X08,X09,853,536,853,08,09,BYU,Xavier,24,24,8,8,77,79,136,South,South
+L,R1Y1,Y01,Y16,592,592,632,01,16,Florida,Jackson St,29,20,5,13,112,69,137,Midwest,Midwest
+L,R1Y2,Y02,Y15,849,849,787,02,15,Wisconsin,TAM C. Christi,29,24,5,6,76,63,137,Midwest,Midwest
+L,R1Y3,Y03,Y14,725,725,669,03,14,Oregon,Miami OH,26,18,7,14,58,56,137,Midwest,Midwest
+L,R1Y4,Y04,Y13,662,662,568,04,13,Maryland,Davidson,24,27,8,4,82,70,136,Midwest,Midwest
+L,R1Y5,Y05,Y12,535,535,723,05,12,Butler,Old Dominion,25,24,6,8,57,46,136,Midwest,Midwest
+L,R1Y6,Y06,Y11,848,717,848,06,11,Notre Dame,Winthrop,24,24,7,4,64,74,137,Midwest,Midwest
+L,R1Y7,Y07,Y10,817,817,606,07,10,UNLV,Georgia Tech,27,20,6,11,67,63,137,Midwest,Midwest
+L,R1Y8,Y08,Y09,738,511,738,08,09,Arizona,Purdue,20,21,10,11,63,72,137,Midwest,Midwest
+L,R1Z1,Z01,Z16,636,636,704,01,16,Kansas,Niagara,30,22,4,11,107,67,137,West,West
+L,R1Z2,Z02,Z15,810,810,842,02,15,UCLA,Weber St,25,17,5,11,70,42,136,West,West
+L,R1Z3,Z03,Z14,731,731,851,03,14,Pittsburgh,Wright St,27,23,7,9,79,58,136,West,West
+L,R1Z4,Z04,Z13,749,749,616,04,13,S Illinois,Holy Cross,26,25,6,8,61,51,137,West,West
+L,R1Z5,Z05,Z12,831,831,623,05,12,Virginia Tech,Illinois,20,23,11,11,54,52,137,West,West
+L,R1Z6,Z06,Z11,825,577,825,06,11,Duke,VA Commonwealth,22,27,10,6,77,79,136,West,West
+L,R1Z7,Z07,Z10,625,625,607,07,10,Indiana,Gonzaga,20,23,10,10,70,57,136,West,West
+L,R1Z8,Z08,Z09,640,640,829,08,09,Kentucky,Villanova,21,21,11,10,67,58,137,West,West
+L,R2W1,R1W1,R1W8,708,708,671,01,09,North Carolina,Michigan St,28,22,6,11,81,67,138,East,East
+L,R2W2,R1W2,R1W7,603,603,527,02,07,Georgetown,Boston College,26,20,6,11,62,55,138,East,East
+L,R2W3,R1W3,R1W6,827,841,827,03,06,Washington St,Vanderbilt,25,19,7,11,74,78,138,East,East
+L,R2W4,R1W4,R1W5,818,793,818,04,05,Texas,USC,24,23,9,11,68,87,139,East,East
+L,R2X1,R1X1,R1X8,720,720,853,01,09,Ohio St,Xavier,30,24,3,8,78,71,138,South,South
+L,R2X2,R1X2,R1X7,666,666,699,02,07,Memphis,Nevada,30,27,3,4,78,62,139,South,South
+L,R2X3,R1X3,R1X6,794,794,651,03,06,Texas A&M,Louisville,25,22,6,9,72,69,138,South,South
+L,R2X4,R1X4,R1X5,790,830,790,04,05,Virginia,Tennessee,19,22,10,10,74,77,139,South,South
+L,R2Y1,R1Y1,R1Y8,592,592,738,01,09,Florida,Purdue,29,21,5,11,74,67,139,Midwest,Midwest
+L,R2Y2,R1Y2,R1Y7,817,849,817,02,07,Wisconsin,UNLV,29,27,5,6,68,74,139,Midwest,Midwest
+L,R2Y3,R1Y3,R1Y6,725,725,848,03,11,Oregon,Winthrop,26,24,7,4,75,61,139,Midwest,Midwest
+L,R2Y4,R1Y4,R1Y5,535,662,535,04,05,Maryland,Butler,24,25,8,6,59,62,138,Midwest,Midwest
+L,R2Z1,R1Z1,R1Z8,636,636,640,01,08,Kansas,Kentucky,30,21,4,11,88,76,139,West,West
+L,R2Z2,R1Z2,R1Z7,810,810,625,02,07,UCLA,Indiana,25,20,5,10,54,49,138,West,West
+L,R2Z3,R1Z3,R1Z6,731,731,825,03,11,Pittsburgh,VA Commonwealth,27,27,7,6,84,79,138,West,West
+L,R2Z4,R1Z4,R1Z5,749,749,831,04,05,S Illinois,Virginia Tech,26,20,6,11,63,48,139,West,West
+L,R3W1,R2W1,R2W4,708,708,818,01,05,North Carolina,USC,28,23,6,11,74,64,144,East,East
+L,R3W2,R2W2,R2W3,603,603,827,02,06,Georgetown,Vanderbilt,26,19,6,11,66,65,144,East,East
+L,R3X1,R2X1,R2X4,720,720,790,01,05,Ohio St,Tennessee,30,22,3,10,85,84,143,South,South
+L,R3X2,R2X2,R2X3,666,666,794,02,03,Memphis,Texas A&M,30,25,3,6,65,64,143,South,South
+L,R3Y1,R2Y1,R2Y4,592,592,535,01,05,Florida,Butler,29,25,5,6,65,57,144,Midwest,Midwest
+L,R3Y2,R2Y2,R2Y3,725,817,725,07,03,UNLV,Oregon,27,26,6,7,72,76,144,Midwest,Midwest
+L,R3Z1,R2Z1,R2Z4,636,636,749,01,04,Kansas,S Illinois,30,26,4,6,61,58,143,West,West
+L,R3Z2,R2Z2,R2Z3,810,810,731,02,03,UCLA,Pittsburgh,25,27,5,7,64,55,143,West,West
+L,R4W1,R3W1,R3W2,603,708,603,01,02,North Carolina,Georgetown,28,26,6,6,84,96,146,East,East
+L,R4X1,R3X1,R3X2,720,720,666,01,02,Ohio St,Memphis,30,30,3,3,92,76,145,South,South
+L,R4Y1,R3Y1,R3Y2,592,592,725,01,03,Florida,Oregon,29,26,5,7,85,77,146,Midwest,Midwest
+L,R4Z1,R3Z1,R3Z2,810,636,810,01,02,Kansas,UCLA,30,25,4,5,55,68,145,West,West
+L,R5WX,R4W1,R4X1,720,603,720,02,01,Georgetown,Ohio St,26,30,6,3,60,67,152,East,South
+L,R5YZ,R4Y1,R4Z1,592,592,810,01,02,Florida,UCLA,29,25,5,5,76,66,152,Midwest,West
+L,R6CH,R5WX,R5YZ,592,720,592,01,01,Ohio St,Florida,30,29,3,5,75,84,154,South,Midwest
+M,W16,W16a,W16b,686,560,686,16,16,Coppin St,Mt St Marys,14,18,20,14,60,69,134,East,East
+M,R1W1,W01,W16,708,708,686,01,16,North Carolina,Mt St Marys,32,18,2,14,113,74,137,East,East
+M,R1W2,W02,W15,790,790,509,02,15,Tennessee,American Univ,28,21,4,11,72,57,137,East,East
+M,R1W3,W03,W14,651,651,526,03,14,Louisville,Boise St,24,24,8,8,79,61,137,East,East
+M,R1W4,W04,W13,841,841,848,04,13,Washington St,Winthrop,24,20,8,11,71,40,136,East,East
+M,R1W5,W05,W12,717,717,602,05,12,Notre Dame,George Mason,24,23,7,10,68,50,136,East,East
+M,R1W6,W06,W11,721,721,779,06,11,Oklahoma,St Josephs PA,22,21,11,12,72,64,137,East,East
+M,R1W7,W07,W10,535,535,768,07,10,Butler,South Alabama,29,25,3,6,81,61,137,East,East
+M,R1W8,W08,W09,515,625,515,08,09,Indiana,Arkansas,25,22,7,11,72,86,137,East,East
+M,R1X1,X01,X16,636,636,733,01,16,Kansas,Portland St,30,21,3,9,85,61,136,Midwest,Midwest
+M,R1X2,X02,X15,603,603,813,02,15,Georgetown,UMBC,27,23,5,8,66,47,137,Midwest,Midwest
+M,R1X3,X03,X14,849,849,564,03,14,Wisconsin,CS Fullerton,29,23,4,8,71,56,136,Midwest,Midwest
+M,R1X4,X04,X13,766,827,766,04,13,Vanderbilt,Siena,26,22,7,10,62,83,137,Midwest,Midwest
+M,R1X5,X05,X12,829,551,829,05,12,Clemson,Villanova,23,20,9,12,69,75,137,Midwest,Midwest
+M,R1X6,X06,X11,637,818,637,06,11,USC,Kansas St,21,19,11,11,67,80,136,Midwest,Midwest
+M,R1X7,X07,X10,568,607,568,07,10,Gonzaga,Davidson,25,25,7,6,76,82,137,Midwest,Midwest
+M,R1X8,X08,X09,817,817,639,08,09,UNLV,Kent,25,28,7,6,71,58,136,Midwest,Midwest
+M,R1Y1,Y01,Y16,666,666,819,01,16,Memphis,UT Arlington,33,17,1,11,87,63,137,South,South
+M,R1Y2,Y02,Y15,793,793,519,02,15,Texas,Austin Peay,27,24,6,10,74,54,137,South,South
+M,R1Y3,Y03,Y14,783,783,561,03,14,Stanford,Cornell,26,21,7,5,77,53,136,South,South
+M,R1Y4,Y04,Y13,731,731,724,04,13,Pittsburgh,Oral Roberts,26,23,9,8,82,63,136,South,South
+M,R1Y5,Y05,Y12,671,671,789,05,12,Michigan St,Temple,25,21,8,12,72,61,136,South,South
+M,R1Y6,Y06,Y11,660,660,640,06,11,Marquette,Kentucky,23,18,9,12,74,66,136,South,South
+M,R1Y7,Y07,Y10,668,668,781,07,10,Miami FL,St Marys CA,21,24,10,6,78,64,137,South,South
+M,R1Y8,Y08,Y09,675,675,725,08,09,Mississippi St,Oregon,22,18,10,13,76,69,137,South,South
+M,R1Z1,Z01,Z16,810,810,685,01,16,UCLA,MS Valley St,30,15,3,15,70,29,136,West,West
+M,R1Z2,Z02,Z15,577,577,522,02,15,Duke,Belmont,27,24,5,8,71,70,136,West,West
+M,R1Z3,Z03,Z14,853,853,604,03,14,Xavier,Georgia,27,16,6,16,73,61,136,West,West
+M,R1Z4,Z04,Z13,753,559,753,04,13,Connecticut,San Diego,24,20,8,13,69,70,137,West,West
+M,R1Z5,Z05,Z12,835,575,835,05,12,Drake,W Kentucky,26,25,4,6,99,101,137,West,West
+M,R1Z6,Z06,Z11,738,738,521,06,11,Purdue,Baylor,24,20,8,10,90,79,136,West,West
+M,R1Z7,Z07,Z10,843,843,511,07,10,West Virginia,Arizona,23,18,10,14,75,65,136,West,West
+M,R1Z8,Z08,Z09,794,536,794,08,09,BYU,Texas A&M,27,23,7,10,62,67,136,West,West
+M,R2W1,R1W1,R1W8,708,708,515,01,09,North Carolina,Arkansas,32,22,2,11,108,77,139,East,East
+M,R2W2,R1W2,R1W7,790,790,535,02,07,Tennessee,Butler,28,29,4,3,76,71,139,East,East
+M,R2W3,R1W3,R1W6,651,651,721,03,06,Louisville,Oklahoma,24,22,8,11,78,48,139,East,East
+M,R2W4,R1W4,R1W5,841,841,717,04,05,Washington St,Notre Dame,24,24,8,7,61,41,138,East,East
+M,R2X1,R1X1,R1X8,636,636,817,01,08,Kansas,UNLV,30,25,3,7,75,56,138,Midwest,Midwest
+M,R2X2,R1X2,R1X7,568,603,568,02,10,Georgetown,Davidson,27,25,5,6,70,74,139,Midwest,Midwest
+M,R2X3,R1X3,R1X6,849,849,637,03,11,Wisconsin,Kansas St,29,19,4,11,72,55,138,Midwest,Midwest
+M,R2X4,R1X4,R1X5,829,766,829,13,12,Siena,Villanova,22,20,10,12,72,84,139,Midwest,Midwest
+M,R2Y1,R1Y1,R1Y8,666,666,675,01,08,Memphis,Mississippi St,33,22,1,10,77,74,139,South,South
+M,R2Y2,R1Y2,R1Y7,793,793,668,02,07,Texas,Miami FL,27,21,6,10,75,72,139,South,South
+M,R2Y3,R1Y3,R1Y6,783,783,660,03,06,Stanford,Marquette,26,23,7,9,82,81,138,South,South
+M,R2Y4,R1Y4,R1Y5,671,731,671,04,05,Pittsburgh,Michigan St,26,25,9,8,54,65,138,South,South
+M,R2Z1,R1Z1,R1Z8,810,810,794,01,09,UCLA,Texas A&M,30,23,3,10,51,49,138,West,West
+M,R2Z2,R1Z2,R1Z7,843,577,843,02,07,Duke,West Virginia,27,23,5,10,67,73,138,West,West
+M,R2Z3,R1Z3,R1Z6,853,853,738,03,06,Xavier,Purdue,27,24,6,8,85,78,138,West,West
+M,R2Z4,R1Z4,R1Z5,835,753,835,13,12,San Diego,W Kentucky,20,25,13,6,63,72,139,West,West
+M,R3W1,R2W1,R2W4,708,708,841,01,04,North Carolina,Washington St,32,24,2,8,68,47,143,East,East
+M,R3W2,R2W2,R2W3,651,790,651,02,03,Tennessee,Louisville,28,24,4,8,60,79,143,East,East
+M,R3X1,R2X1,R2X4,636,636,829,01,12,Kansas,Villanova,30,20,3,12,72,57,144,Midwest,Midwest
+M,R3X2,R2X2,R2X3,568,568,849,10,03,Davidson,Wisconsin,25,29,6,4,73,56,144,Midwest,Midwest
+M,R3Y1,R2Y1,R2Y4,666,666,671,01,05,Memphis,Michigan St,33,25,1,8,92,74,144,South,South
+M,R3Y2,R2Y2,R2Y3,793,793,783,02,03,Texas,Stanford,27,26,6,7,82,62,144,South,South
+M,R3Z1,R2Z1,R2Z4,810,810,835,01,12,UCLA,W Kentucky,30,25,3,6,88,78,143,West,West
+M,R3Z2,R2Z2,R2Z3,853,843,853,07,03,West Virginia,Xavier,23,27,10,6,75,79,143,West,West
+M,R4W1,R3W1,R3W2,708,708,651,01,03,North Carolina,Louisville,32,24,2,8,83,73,145,East,East
+M,R4X1,R3X1,R3X2,636,636,568,01,10,Kansas,Davidson,30,25,3,6,59,57,146,Midwest,Midwest
+M,R4Y1,R3Y1,R3Y2,666,666,793,01,02,Memphis,Texas,33,27,1,6,85,67,146,South,South
+M,R4Z1,R3Z1,R3Z2,810,810,853,01,03,UCLA,Xavier,30,27,3,6,76,57,145,West,West
+M,R5WX,R4W1,R4X1,636,708,636,01,01,North Carolina,Kansas,32,30,2,3,66,84,152,East,Midwest
+M,R5YZ,R4Y1,R4Z1,666,666,810,01,01,Memphis,UCLA,33,30,1,3,78,63,152,South,West
+M,R6CH,R5WX,R5YZ,636,636,666,01,01,Kansas,Memphis,30,33,3,1,75,68,154,Midwest,South
+N,Y16,Y16a,Y16b,682,506,682,16,16,Alabama St,Morehead St,20,17,9,15,43,58,134,Midwest,Midwest
+N,R1W1,W01,W16,731,731,586,01,16,Pittsburgh,ETSU,27,22,4,10,72,62,137,East,East
+N,R1W2,W02,W15,577,577,524,02,15,Duke,Binghamton,28,22,6,8,86,62,136,East,East
+N,R1W3,W03,W14,829,829,509,03,14,Villanova,American Univ,26,24,7,7,80,67,136,East,East
+N,R1W4,W04,W13,853,853,733,04,13,Xavier,Portland St,25,22,7,9,77,59,137,East,East
+N,R1W5,W05,W12,849,595,849,05,12,Florida St,Wisconsin,25,19,9,12,59,61,137,East,East
+N,R1W6,W06,W11,810,810,825,06,11,UCLA,VA Commonwealth,25,24,8,9,65,64,136,East,East
+N,R1W7,W07,W10,793,793,673,07,10,Texas,Minnesota,22,21,11,10,76,62,136,East,East
+N,R1W8,W08,W09,722,722,790,08,09,Oklahoma St,Tennessee,22,21,11,12,77,75,137,East,East
+N,R1X1,X01,X16,708,708,740,01,16,North Carolina,Radford,27,18,4,11,101,58,136,South,South
+N,R1X2,X02,X15,721,721,683,02,15,Oklahoma,Morgan St,27,22,5,11,82,54,136,South,South
+N,R1X3,X03,X14,786,786,765,03,14,Syracuse,SF Austin,25,20,9,7,59,44,137,South,South
+N,R1X4,X04,X13,607,607,503,04,13,Gonzaga,Akron,25,22,5,12,77,64,136,South,South
+N,R1X5,X05,X12,835,623,835,05,12,Illinois,W Kentucky,24,23,9,8,72,76,136,South,South
+N,R1X6,X06,X11,512,512,789,06,11,Arizona St,Temple,24,22,9,11,66,57,137,South,South
+N,R1X7,X07,X10,670,551,670,07,10,Clemson,Michigan,23,19,8,13,59,62,136,South,South
+N,R1X8,X08,X09,655,655,535,08,09,LSU,Butler,26,25,7,5,75,71,136,South,South
+N,R1Y1,Y01,Y16,651,651,682,01,16,Louisville,Morehead St,28,17,5,15,74,54,137,Midwest,Midwest
+N,R1Y2,Y02,Y15,671,671,745,02,15,Michigan St,Robert Morris,26,24,6,10,77,62,137,Midwest,Midwest
+N,R1Y3,Y03,Y14,636,636,689,03,14,Kansas,N Dakota St,25,24,7,6,84,74,137,Midwest,Midwest
+N,R1Y4,Y04,Y13,552,839,552,04,13,Wake Forest,Cleveland St,24,22,6,10,69,84,137,Midwest,Midwest
+N,R1Y5,Y05,Y12,511,821,511,05,12,Utah,Arizona,24,19,8,13,71,84,137,Midwest,Midwest
+N,R1Y6,Y06,Y11,569,843,569,06,11,West Virginia,Dayton,23,26,11,7,60,68,137,Midwest,Midwest
+N,R1Y7,Y07,Y10,818,527,818,07,10,Boston College,USC,22,21,11,12,55,72,137,Midwest,Midwest
+N,R1Y8,Y08,Y09,766,720,766,08,09,Ohio St,Siena,22,26,10,7,72,74,137,Midwest,Midwest
+N,R1Z1,Z01,Z16,559,559,547,01,16,Connecticut,Chattanooga,27,16,4,16,103,47,136,West,West
+N,R1Z2,Z02,Z15,666,666,565,02,15,Memphis,CS Northridge,31,16,3,13,81,70,136,West,West
+N,R1Z3,Z03,Z14,676,676,561,03,14,Missouri,Cornell,28,20,6,9,78,59,137,West,West
+N,R1Z4,Z04,Z13,840,840,675,04,13,Washington,Mississippi St,25,22,8,12,71,58,136,West,West
+N,R1Z5,Z05,Z12,738,738,714,05,12,Purdue,Northern Iowa,25,23,9,10,61,56,136,West,West
+N,R1Z6,Z06,Z11,660,660,822,06,11,Marquette,Utah St,24,29,9,4,58,57,137,West,West
+N,R1Z7,Z07,Z10,662,539,662,07,10,California,Maryland,22,20,10,13,71,84,136,West,West
+N,R1Z8,Z08,Z09,794,536,794,08,09,BYU,Texas A&M,24,23,7,9,66,79,136,West,West
+N,R2W1,R1W1,R1W8,731,731,722,01,08,Pittsburgh,Oklahoma St,27,22,4,11,84,76,139,East,East
+N,R2W2,R1W2,R1W7,577,577,793,02,07,Duke,Texas,28,22,6,11,74,69,138,East,East
+N,R2W3,R1W3,R1W6,829,829,810,03,06,Villanova,UCLA,26,25,7,8,89,69,138,East,East
+N,R2W4,R1W4,R1W5,853,853,849,04,12,Xavier,Wisconsin,25,19,7,12,60,49,139,East,East
+N,R2X1,R1X1,R1X8,708,708,655,01,08,North Carolina,LSU,27,26,4,7,84,70,138,South,South
+N,R2X2,R1X2,R1X7,721,721,670,02,10,Oklahoma,Michigan,27,19,5,13,73,63,138,South,South
+N,R2X3,R1X3,R1X6,786,786,512,03,06,Syracuse,Arizona St,25,24,9,9,78,67,139,South,South
+N,R2X4,R1X4,R1X5,607,607,835,04,12,Gonzaga,W Kentucky,25,23,5,8,83,81,138,South,South
+N,R2Y1,R1Y1,R1Y8,651,651,766,01,09,Louisville,Siena,28,26,5,7,79,72,139,Midwest,Midwest
+N,R2Y2,R1Y2,R1Y7,671,671,818,02,10,Michigan St,USC,26,21,6,12,74,69,139,Midwest,Midwest
+N,R2Y3,R1Y3,R1Y6,636,636,569,03,11,Kansas,Dayton,25,26,7,7,60,43,139,Midwest,Midwest
+N,R2Y4,R1Y4,R1Y5,511,552,511,13,12,Cleveland St,Arizona,22,19,10,13,57,71,139,Midwest,Midwest
+N,R2Z1,R1Z1,R1Z8,559,559,794,01,09,Connecticut,Texas A&M,27,23,4,9,92,66,138,West,West
+N,R2Z2,R1Z2,R1Z7,666,666,662,02,10,Memphis,Maryland,31,20,3,13,89,70,138,West,West
+N,R2Z3,R1Z3,R1Z6,676,676,660,03,06,Missouri,Marquette,28,24,6,9,83,79,139,West,West
+N,R2Z4,R1Z4,R1Z5,738,840,738,04,05,Washington,Purdue,25,25,8,9,74,76,138,West,West
+N,R3W1,R2W1,R2W4,731,731,853,01,04,Pittsburgh,Xavier,27,25,4,7,60,55,143,East,East
+N,R3W2,R2W2,R2W3,829,577,829,02,03,Duke,Villanova,28,26,6,7,54,77,143,East,East
+N,R3X1,R2X1,R2X4,708,708,607,01,04,North Carolina,Gonzaga,27,25,4,5,98,77,144,South,South
+N,R3X2,R2X2,R2X3,721,721,786,02,03,Oklahoma,Syracuse,27,25,5,9,84,71,144,South,South
+N,R3Y1,R2Y1,R2Y4,651,651,511,01,12,Louisville,Arizona,28,19,5,13,103,64,144,Midwest,Midwest
+N,R3Y2,R2Y2,R2Y3,671,671,636,02,03,Michigan St,Kansas,26,25,6,7,67,62,144,Midwest,Midwest
+N,R3Z1,R2Z1,R2Z4,559,559,738,01,05,Connecticut,Purdue,27,25,4,9,72,60,143,West,West
+N,R3Z2,R2Z2,R2Z3,676,666,676,02,03,Memphis,Missouri,31,28,3,6,91,102,143,West,West
+N,R4W1,R3W1,R3W2,829,731,829,01,03,Pittsburgh,Villanova,27,26,4,7,76,78,145,East,East
+N,R4X1,R3X1,R3X2,708,708,721,01,02,North Carolina,Oklahoma,27,27,4,5,72,60,146,South,South
+N,R4Y1,R3Y1,R3Y2,671,651,671,01,02,Louisville,Michigan St,28,26,5,6,52,64,146,Midwest,Midwest
+N,R4Z1,R3Z1,R3Z2,559,559,676,01,03,Connecticut,Missouri,27,28,4,6,82,75,145,West,West
+N,R5WX,R4W1,R4X1,708,829,708,03,01,Villanova,North Carolina,26,27,7,4,69,83,152,East,South
+N,R5YZ,R4Y1,R4Z1,671,671,559,02,01,Michigan St,Connecticut,26,27,6,4,82,73,152,Midwest,West
+N,R6CH,R5WX,R5YZ,708,708,671,01,02,North Carolina,Michigan St,27,26,4,6,89,72,154,South,Midwest
+O,X16,X16a,X16b,514,514,848,16,16,Ark Pine Bluff,Winthrop,17,17,15,13,61,44,134,South,South
+O,R1W1,W01,W16,640,640,586,01,16,Kentucky,ETSU,32,19,2,14,100,71,136,East,East
+O,R1W2,W02,W15,843,843,683,02,15,West Virginia,Morgan St,27,27,6,9,77,50,137,East,East
+O,R1W3,W03,W14,701,701,680,03,14,New Mexico,Montana,29,20,4,9,62,57,136,East,East
+O,R1W4,W04,W13,849,849,850,04,13,Wisconsin,Wofford,23,25,8,8,53,49,137,East,East
+O,R1W5,W05,W12,561,789,561,05,12,Temple,Cornell,29,25,5,4,65,78,137,East,East
+O,R1W6,W06,W11,840,660,840,06,11,Marquette,Washington,22,24,11,9,78,80,136,East,East
+O,R1W7,W07,W10,676,551,676,07,10,Clemson,Missouri,21,22,10,10,78,86,137,East,East
+O,R1W8,W08,W09,839,793,839,08,09,Texas,Wake Forest,24,19,9,10,80,81,136,East,East
+O,R1X1,X01,X16,577,577,514,01,16,Duke,Ark Pine Bluff,29,17,5,15,73,44,137,South,South
+O,R1X2,X02,X15,829,829,745,02,15,Villanova,Robert Morris,24,23,7,11,73,70,136,South,South
+O,R1X3,X03,X14,521,521,751,03,14,Baylor,Sam Houston St,24,21,7,7,68,59,136,South,South
+O,R1X4,X04,X13,738,738,766,04,13,Purdue,Siena,27,27,5,6,72,64,137,South,South
+O,R1X5,X05,X12,794,794,822,05,12,Texas A&M,Utah St,22,26,9,7,69,53,137,South,South
+O,R1X6,X06,X11,723,717,723,06,11,Notre Dame,Old Dominion,23,26,11,8,50,51,136,South,South
+O,R1X7,X07,X10,781,743,781,07,10,Richmond,St Marys CA,26,25,8,5,71,80,136,South,South
+O,R1X8,X08,X09,539,539,651,08,09,California,Louisville,23,20,10,12,77,62,137,South,South
+O,R1Y1,Y01,Y16,636,636,644,01,16,Kansas,Lehigh,32,22,2,10,90,74,136,Midwest,Midwest
+O,R1Y2,Y02,Y15,720,720,757,02,15,Ohio St,Santa Barbara,27,19,7,9,68,51,137,Midwest,Midwest
+O,R1Y3,Y03,Y14,719,603,719,03,14,Georgetown,Ohio,23,20,10,14,83,97,136,Midwest,Midwest
+O,R1Y4,Y04,Y13,662,662,617,04,13,Maryland,Houston,22,18,8,15,89,77,137,Midwest,Midwest
+O,R1Y5,Y05,Y12,671,671,702,05,12,Michigan St,New Mexico St,24,21,8,11,70,67,137,Midwest,Midwest
+O,R1Y6,Y06,Y11,790,790,754,06,11,Tennessee,San Diego St,25,23,8,8,62,59,136,Midwest,Midwest
+O,R1Y7,Y07,Y10,606,722,606,07,10,Oklahoma St,Georgia Tech,22,21,10,12,59,64,137,Midwest,Midwest
+O,R1Y8,Y08,Y09,714,817,714,08,09,UNLV,Northern Iowa,24,28,8,4,66,69,136,Midwest,Midwest
+O,R1Z1,Z01,Z16,786,786,828,01,16,Syracuse,Vermont,28,25,4,9,79,56,137,West,West
+O,R1Z2,Z02,Z15,637,637,711,02,15,Kansas St,North Texas,25,22,7,8,82,62,136,West,West
+O,R1Z3,Z03,Z14,731,731,718,03,14,Pittsburgh,Oakland,24,24,8,8,89,66,137,West,West
+O,R1Z4,Z04,Z13,687,827,687,04,13,Vanderbilt,Murray St,23,28,8,4,65,66,136,West,West
+O,R1Z5,Z05,Z12,535,535,824,05,12,Butler,UTEP,28,26,4,6,77,59,136,West,West
+O,R1Z6,Z06,Z11,853,853,673,06,11,Xavier,Minnesota,24,21,8,13,65,54,137,West,West
+O,R1Z7,Z07,Z10,536,536,592,07,10,BYU,Florida,28,21,5,12,99,92,136,West,West
+O,R1Z8,Z08,Z09,607,607,595,08,09,Gonzaga,Florida St,25,22,6,9,67,60,137,West,West
+O,R2W1,R1W1,R1W8,640,640,839,01,09,Kentucky,Wake Forest,32,19,2,10,90,60,138,East,East
+O,R2W2,R1W2,R1W7,843,843,676,02,10,West Virginia,Missouri,27,22,6,10,68,59,139,East,East
+O,R2W3,R1W3,R1W6,840,701,840,03,11,New Mexico,Washington,29,24,4,9,64,82,138,East,East
+O,R2W4,R1W4,R1W5,561,849,561,04,12,Wisconsin,Cornell,23,25,8,4,69,87,139,East,East
+O,R2X1,R1X1,R1X8,577,577,539,01,08,Duke,California,29,23,5,10,68,53,139,South,South
+O,R2X2,R1X2,R1X7,781,829,781,02,10,Villanova,St Marys CA,24,25,7,5,68,75,138,South,South
+O,R2X3,R1X3,R1X6,521,521,723,03,11,Baylor,Old Dominion,24,26,7,8,76,68,138,South,South
+O,R2X4,R1X4,R1X5,738,738,794,04,05,Purdue,Texas A&M,27,22,5,9,63,61,139,South,South
+O,R2Y1,R1Y1,R1Y8,714,636,714,01,09,Kansas,Northern Iowa,32,28,2,4,67,69,138,Midwest,Midwest
+O,R2Y2,R1Y2,R1Y7,720,720,606,02,10,Ohio St,Georgia Tech,27,21,7,12,75,66,139,Midwest,Midwest
+O,R2Y3,R1Y3,R1Y6,790,719,790,14,06,Ohio,Tennessee,20,25,14,8,68,83,138,Midwest,Midwest
+O,R2Y4,R1Y4,R1Y5,671,662,671,04,05,Maryland,Michigan St,22,24,8,8,83,85,139,Midwest,Midwest
+O,R2Z1,R1Z1,R1Z8,786,786,607,01,08,Syracuse,Gonzaga,28,25,4,6,87,65,139,West,West
+O,R2Z2,R1Z2,R1Z7,637,637,536,02,07,Kansas St,BYU,25,28,7,5,84,72,138,West,West
+O,R2Z3,R1Z3,R1Z6,853,731,853,03,06,Pittsburgh,Xavier,24,24,8,8,68,71,139,West,West
+O,R2Z4,R1Z4,R1Z5,535,687,535,13,05,Murray St,Butler,28,28,4,4,52,54,138,West,West
+O,R3W1,R2W1,R2W4,640,640,561,01,12,Kentucky,Cornell,32,25,2,4,62,45,143,East,East
+O,R3W2,R2W2,R2W3,843,843,840,02,11,West Virginia,Washington,27,24,6,9,69,56,143,East,East
+O,R3X1,R2X1,R2X4,577,577,738,01,04,Duke,Purdue,29,27,5,5,70,57,144,South,South
+O,R3X2,R2X2,R2X3,521,781,521,10,03,St Marys CA,Baylor,25,24,5,7,49,72,144,South,South
+O,R3Y1,R2Y1,R2Y4,671,714,671,09,05,Northern Iowa,Michigan St,28,24,4,8,52,59,144,Midwest,Midwest
+O,R3Y2,R2Y2,R2Y3,790,720,790,02,06,Ohio St,Tennessee,27,25,7,8,73,76,144,Midwest,Midwest
+O,R3Z1,R2Z1,R2Z4,535,786,535,01,05,Syracuse,Butler,28,28,4,4,59,63,143,West,West
+O,R3Z2,R2Z2,R2Z3,637,637,853,02,06,Kansas St,Xavier,25,24,7,8,101,96,143,West,West
+O,R4W1,R3W1,R3W2,843,640,843,01,02,Kentucky,West Virginia,32,27,2,6,66,73,145,East,East
+O,R4X1,R3X1,R3X2,577,577,521,01,03,Duke,Baylor,29,24,5,7,78,71,146,South,South
+O,R4Y1,R3Y1,R3Y2,671,671,790,05,06,Michigan St,Tennessee,24,25,8,8,70,69,146,Midwest,Midwest
+O,R4Z1,R3Z1,R3Z2,535,535,637,05,02,Butler,Kansas St,28,25,4,7,63,56,145,West,West
+O,R5WX,R4W1,R4X1,577,843,577,02,01,West Virginia,Duke,27,29,6,5,57,78,152,East,South
+O,R5YZ,R4Y1,R4Z1,535,671,535,05,05,Michigan St,Butler,24,28,8,4,50,52,152,Midwest,West
+O,R6CH,R5WX,R5YZ,577,577,535,01,05,Duke,Butler,29,28,5,4,61,59,154,South,West
+P,W12,W12a,W12b,551,551,805,12,12,Clemson,UAB,21,22,11,8,70,52,134,East,East
+P,W16,W16a,W16b,820,506,820,16,16,Alabama St,UT San Antonio,15,16,17,13,61,70,135,East,East
+P,Y16,Y16a,Y16b,814,513,814,16,16,Ark Little Rock,UNC Asheville,17,16,16,13,77,81,134,Southeast,Southeast
+P,Z11,Z11a,Z11b,825,818,825,11,11,USC,VA Commonwealth,19,23,14,11,46,59,135,Southwest,Southwest
+P,R1W1,W01,W16,720,720,820,01,16,Ohio St,UT San Antonio,32,16,2,13,75,46,137,East,East
+P,R1W2,W02,W15,708,708,648,02,15,North Carolina,Long Island,26,27,7,5,102,87,137,East,East
+P,R1W3,W03,W14,786,786,626,03,14,Syracuse,Indiana St,26,19,7,13,77,60,137,East,East
+P,R1W4,W04,W13,640,640,736,04,13,Kentucky,Princeton,25,24,8,6,59,57,136,East,East
+P,R1W5,W05,W12,843,843,551,05,12,West Virginia,Clemson,20,21,11,11,84,76,136,East,East
+P,R1W6,W06,W11,660,853,660,06,11,Xavier,Marquette,24,20,7,14,55,66,137,East,East
+P,R1W7,W07,W10,840,840,604,07,10,Washington,Georgia,23,21,10,11,68,65,137,East,East
+P,R1W8,W08,W09,602,602,829,08,09,George Mason,Villanova,26,21,6,11,61,57,137,East,East
+P,R1X1,X01,X16,577,577,610,01,16,Duke,Hampton,30,23,4,8,87,45,137,West,West
+P,R1X2,X02,X15,754,754,688,02,15,San Diego St,N Colorado,30,19,2,10,68,50,136,West,West
+P,R1X3,X03,X14,559,559,533,03,14,Connecticut,Bucknell,26,25,9,8,81,52,136,West,West
+P,R1X4,X04,X13,793,793,718,04,13,Texas,Oakland,27,24,7,9,85,81,137,West,West
+P,R1X5,X05,X12,511,511,666,05,12,Arizona,Memphis,27,25,7,9,77,75,137,West,West
+P,R1X6,X06,X11,549,549,676,06,11,Cincinnati,Missouri,25,22,8,10,78,63,136,West,West
+P,R1X7,X07,X10,789,789,729,07,10,Temple,Penn St,25,19,7,14,66,64,136,West,West
+P,R1X8,X08,X09,670,670,790,08,09,Michigan,Tennessee,19,19,13,14,75,45,137,West,West
+P,R1Y1,Y01,Y16,731,731,814,01,16,Pittsburgh,UNC Asheville,27,16,5,13,74,51,136,Southeast,Southeast
+P,R1Y2,Y02,Y15,592,592,757,02,15,Florida,Santa Barbara,26,16,7,13,79,51,136,Southeast,Southeast
+P,R1Y3,Y03,Y14,536,536,850,03,14,BYU,Wofford,29,21,4,12,74,66,136,Southeast,Southeast
+P,R1Y4,Y04,Y13,849,849,522,04,13,Wisconsin,Belmont,23,30,8,4,72,58,136,Southeast,Southeast
+P,R1Y5,Y05,Y12,637,637,822,05,12,Kansas St,Utah St,21,29,10,3,73,68,136,Southeast,Southeast
+P,R1Y6,Y06,Y11,607,778,607,06,11,St Johns,Gonzaga,21,23,11,9,71,86,136,Southeast,Southeast
+P,R1Y7,Y07,Y10,810,810,671,07,10,UCLA,Michigan St,22,18,10,14,78,76,136,Southeast,Southeast
+P,R1Y8,Y08,Y09,535,535,723,08,09,Butler,Old Dominion,22,27,9,6,60,58,136,Southeast,Southeast
+P,R1Z1,Z01,Z16,636,636,528,01,16,Kansas,Boston Univ,32,21,2,13,72,53,137,Southwest,Southwest
+P,R1Z2,Z02,Z15,717,717,503,02,15,Notre Dame,Akron,26,22,6,12,69,56,137,Southwest,Southwest
+P,R1Z3,Z03,Z14,738,738,782,03,14,Purdue,St Peters,25,20,7,13,65,43,137,Southwest,Southwest
+P,R1Z4,Z04,Z13,682,651,682,04,13,Louisville,Morehead St,25,22,9,9,61,62,136,Southwest,Southwest
+P,R1Z5,Z05,Z12,743,827,743,05,12,Vanderbilt,Richmond,23,27,10,7,66,69,136,Southwest,Southwest
+P,R1Z6,Z06,Z11,825,603,825,06,11,Georgetown,VA Commonwealth,21,23,10,11,56,74,137,Southwest,Southwest
+P,R1Z7,Z07,Z10,595,794,595,07,10,Texas A&M,Florida St,23,21,8,10,50,57,137,Southwest,Southwest
+P,R1Z8,Z08,Z09,623,817,623,08,09,UNLV,Illinois,24,19,8,13,62,73,137,Southwest,Southwest
+P,R2W1,R1W1,R1W8,720,720,602,01,08,Ohio St,George Mason,32,26,2,6,98,66,139,East,East
+P,R2W2,R1W2,R1W7,708,708,840,02,07,North Carolina,Washington,26,23,7,10,86,83,139,East,East
+P,R2W3,R1W3,R1W6,660,786,660,03,11,Syracuse,Marquette,26,20,7,14,62,66,139,East,East
+P,R2W4,R1W4,R1W5,640,640,843,04,05,Kentucky,West Virginia,25,20,8,11,71,63,138,East,East
+P,R2X1,R1X1,R1X8,577,577,670,01,08,Duke,Michigan,30,19,4,13,73,71,139,West,West
+P,R2X2,R1X2,R1X7,754,754,789,02,07,San Diego St,Temple,30,25,2,7,71,64,138,West,West
+P,R2X3,R1X3,R1X6,559,559,549,03,06,Connecticut,Cincinnati,26,25,9,8,69,58,138,West,West
+P,R2X4,R1X4,R1X5,511,793,511,04,05,Texas,Arizona,27,27,7,7,69,70,139,West,West
+P,R2Y1,R1Y1,R1Y8,535,731,535,01,08,Pittsburgh,Butler,27,22,5,9,70,71,138,Southeast,Southeast
+P,R2Y2,R1Y2,R1Y7,592,592,810,02,07,Florida,UCLA,26,22,7,10,73,65,138,Southeast,Southeast
+P,R2Y3,R1Y3,R1Y6,536,536,607,03,11,BYU,Gonzaga,29,23,4,9,89,67,138,Southeast,Southeast
+P,R2Y4,R1Y4,R1Y5,849,849,637,04,05,Wisconsin,Kansas St,23,21,8,10,70,65,138,Southeast,Southeast
+P,R2Z1,R1Z1,R1Z8,636,636,623,01,09,Kansas,Illinois,32,19,2,13,73,59,139,Southwest,Southwest
+P,R2Z2,R1Z2,R1Z7,595,717,595,02,10,Notre Dame,Florida St,26,21,6,10,57,71,139,Southwest,Southwest
+P,R2Z3,R1Z3,R1Z6,825,738,825,03,11,Purdue,VA Commonwealth,25,23,7,11,76,94,139,Southwest,Southwest
+P,R2Z4,R1Z4,R1Z5,743,682,743,13,12,Morehead St,Richmond,22,27,9,7,48,65,138,Southwest,Southwest
+P,R3W1,R2W1,R2W4,640,720,640,01,04,Ohio St,Kentucky,32,25,2,8,60,62,144,East,East
+P,R3W2,R2W2,R2W3,708,708,660,02,11,North Carolina,Marquette,26,20,7,14,81,63,144,East,East
+P,R3X1,R2X1,R2X4,511,577,511,01,05,Duke,Arizona,30,27,4,7,77,93,143,West,West
+P,R3X2,R2X2,R2X3,559,754,559,02,03,San Diego St,Connecticut,30,26,2,9,67,74,143,West,West
+P,R3Y1,R2Y1,R2Y4,535,535,849,08,04,Butler,Wisconsin,22,23,9,8,61,54,143,Southeast,Southeast
+P,R3Y2,R2Y2,R2Y3,592,592,536,02,03,Florida,BYU,26,29,7,4,83,74,143,Southeast,Southeast
+P,R3Z1,R2Z1,R2Z4,636,636,743,01,12,Kansas,Richmond,32,27,2,7,77,57,144,Southwest,Southwest
+P,R3Z2,R2Z2,R2Z3,825,595,825,10,11,Florida St,VA Commonwealth,21,23,10,11,71,72,144,Southwest,Southwest
+P,R4W1,R3W1,R3W2,640,640,708,04,02,Kentucky,North Carolina,25,26,8,7,76,69,146,East,East
+P,R4X1,R3X1,R3X2,559,511,559,05,03,Arizona,Connecticut,27,26,7,9,63,65,145,West,West
+P,R4Y1,R3Y1,R3Y2,535,535,592,08,02,Butler,Florida,22,26,9,7,74,71,145,Southeast,Southeast
+P,R4Z1,R3Z1,R3Z2,825,636,825,01,11,Kansas,VA Commonwealth,32,23,2,11,61,71,146,Southwest,Southwest
+P,R5WX,R4W1,R4X1,559,640,559,04,03,Kentucky,Connecticut,25,26,8,9,55,56,152,East,West
+P,R5YZ,R4Y1,R4Z1,535,535,825,08,11,Butler,VA Commonwealth,22,23,9,11,70,62,152,Southeast,Southwest
+P,R6CH,R5WX,R5YZ,559,559,535,03,08,Connecticut,Butler,26,22,9,9,53,41,154,West,Southeast
+Q,X12,X12a,X12b,771,539,771,12,12,California,South Florida,24,19,9,13,54,65,135,Midwest,Midwest
+Q,X16,X16a,X16b,828,643,828,16,16,Lamar,Vermont,21,23,11,11,59,71,135,Midwest,Midwest
+Q,Y16,Y16a,Y16b,835,685,835,16,16,MS Valley St,W Kentucky,21,15,12,18,58,59,134,South,South
+Q,Z14,Z14a,Z14b,536,536,627,14,14,BYU,Iona,23,25,8,7,78,72,134,West,West
+Q,R1W1,W01,W16,786,786,814,01,16,Syracuse,UNC Asheville,31,21,2,9,72,65,136,East,East
+Q,R1W2,W02,W15,720,720,653,02,15,Ohio St,Loyola MD,27,24,7,8,78,59,136,East,East
+Q,R1W3,W03,W14,595,595,775,03,14,Florida St,St Bonaventure,24,20,9,11,66,63,137,East,East
+Q,R1W4,W04,W13,849,849,680,04,13,Wisconsin,Montana,24,23,9,6,73,49,136,East,East
+Q,R1W5,W05,W12,827,827,612,05,12,Vanderbilt,Harvard,24,25,10,4,79,70,136,East,East
+Q,R1W6,W06,W11,549,549,793,06,11,Cincinnati,Texas,24,20,10,13,65,59,137,East,East
+Q,R1W7,W07,W10,607,607,843,07,10,Gonzaga,West Virginia,25,19,6,13,77,54,136,East,East
+Q,R1W8,W08,W09,637,637,772,08,09,Kansas St,Southern Miss,21,23,10,8,70,64,136,East,East
+Q,R1X1,X01,X16,708,708,828,01,16,North Carolina,Vermont,29,23,5,11,77,58,137,Midwest,Midwest
+Q,R1X2,X02,X15,636,636,574,02,15,Kansas,Detroit,27,20,6,13,65,50,137,Midwest,Midwest
+Q,R1X3,X03,X14,603,603,522,03,14,Georgetown,Belmont,22,26,8,7,74,59,137,Midwest,Midwest
+Q,R1X4,X04,X13,719,670,719,04,13,Michigan,Ohio,23,26,9,7,60,65,137,Midwest,Midwest
+Q,R1X5,X05,X12,771,789,771,05,12,Temple,South Florida,24,19,7,13,44,58,137,Midwest,Midwest
+Q,R1X6,X06,X11,695,754,695,06,11,San Diego St,NC State,24,22,7,12,65,79,137,Midwest,Midwest
+Q,R1X7,X07,X10,738,781,738,07,10,St Marys CA,Purdue,25,21,5,12,69,72,137,Midwest,Midwest
+Q,R1X8,X08,X09,562,562,504,08,09,Creighton,Alabama,28,21,5,11,58,57,137,Midwest,Midwest
+Q,R1Y1,Y01,Y16,640,640,835,01,16,Kentucky,W Kentucky,32,15,2,18,81,66,136,South,South
+Q,R1Y2,Y02,Y15,644,577,644,02,15,Duke,Lehigh,27,25,6,7,70,75,137,South,South
+Q,R1Y3,Y03,Y14,521,521,748,03,14,Baylor,S Dakota St,26,25,7,7,68,60,136,South,South
+Q,R1Y4,Y04,Y13,625,625,702,04,13,Indiana,New Mexico St,25,24,8,9,79,66,136,South,South
+Q,R1Y5,Y05,Y12,825,846,825,05,12,Wichita St,VA Commonwealth,26,28,5,6,59,62,136,South,South
+Q,R1Y6,Y06,Y11,556,817,556,06,11,UNLV,Colorado,24,21,8,11,64,68,136,South,South
+Q,R1Y7,Y07,Y10,853,717,853,07,10,Notre Dame,Xavier,22,21,11,12,63,67,137,South,South
+Q,R1Y8,Y08,Y09,629,629,559,08,09,Iowa St,Connecticut,22,20,10,13,77,64,136,South,South
+Q,R1Z1,Z01,Z16,671,671,648,01,16,Michigan St,Long Island,27,25,7,8,89,67,137,West,West
+Q,R1Z2,Z02,Z15,707,676,707,02,15,Missouri,Norfolk St,30,24,4,8,84,86,137,West,West
+Q,R1Z3,Z03,Z14,660,660,536,03,14,Marquette,BYU,25,23,7,8,88,68,136,West,West
+Q,R1Z4,Z04,Z13,651,651,568,04,13,Louisville,Davidson,26,24,9,7,69,62,136,West,West
+Q,R1Z5,Z05,Z12,701,701,647,05,12,New Mexico,Long Beach St,26,23,6,8,75,68,136,West,West
+Q,R1Z6,Z06,Z11,687,687,557,06,11,Murray St,Colorado St,27,20,1,11,58,41,136,West,West
+Q,R1Z7,Z07,Z10,592,592,830,07,10,Florida,Virginia,23,22,10,9,71,45,137,West,West
+Q,R1Z8,Z08,Z09,780,666,780,08,09,Memphis,St Louis,26,24,8,7,54,61,137,West,West
+Q,R2W1,R1W1,R1W8,786,786,637,01,08,Syracuse,Kansas St,31,21,2,10,75,59,138,East,East
+Q,R2W2,R1W2,R1W7,720,720,607,02,07,Ohio St,Gonzaga,27,25,7,6,73,66,138,East,East
+Q,R2W3,R1W3,R1W6,549,595,549,03,06,Florida St,Cincinnati,24,24,9,10,56,62,139,East,East
+Q,R2W4,R1W4,R1W5,849,849,827,04,05,Wisconsin,Vanderbilt,24,24,9,10,60,57,138,East,East
+Q,R2X1,R1X1,R1X8,708,708,562,01,08,North Carolina,Creighton,29,28,5,5,87,73,139,Midwest,Midwest
+Q,R2X2,R1X2,R1X7,636,636,738,02,10,Kansas,Purdue,27,21,6,12,63,60,139,Midwest,Midwest
+Q,R2X3,R1X3,R1X6,695,603,695,03,11,Georgetown,NC State,22,22,8,12,63,66,139,Midwest,Midwest
+Q,R2X4,R1X4,R1X5,719,719,771,13,12,Ohio,South Florida,26,19,7,13,62,56,139,Midwest,Midwest
+Q,R2Y1,R1Y1,R1Y8,640,640,629,01,08,Kentucky,Iowa St,32,22,2,10,87,71,138,South,South
+Q,R2Y2,R1Y2,R1Y7,853,644,853,15,10,Lehigh,Xavier,25,21,7,12,58,70,139,South,South
+Q,R2Y3,R1Y3,R1Y6,521,521,556,03,11,Baylor,Colorado,26,21,7,11,80,63,138,South,South
+Q,R2Y4,R1Y4,R1Y5,625,625,825,04,12,Indiana,VA Commonwealth,25,28,8,6,63,61,138,South,South
+Q,R2Z1,R1Z1,R1Z8,671,671,780,01,09,Michigan St,St Louis,27,24,7,7,65,61,139,West,West
+Q,R2Z2,R1Z2,R1Z7,592,707,592,15,07,Norfolk St,Florida,24,23,8,10,50,84,139,West,West
+Q,R2Z3,R1Z3,R1Z6,660,660,687,03,06,Marquette,Murray St,25,27,7,1,62,53,138,West,West
+Q,R2Z4,R1Z4,R1Z5,651,651,701,04,05,Louisville,New Mexico,26,26,9,6,59,56,138,West,West
+Q,R3W1,R2W1,R2W4,786,786,849,01,04,Syracuse,Wisconsin,31,24,2,9,64,63,143,East,East
+Q,R3W2,R2W2,R2W3,720,720,549,02,06,Ohio St,Cincinnati,27,24,7,10,81,66,143,East,East
+Q,R3X1,R2X1,R2X4,708,708,719,01,13,North Carolina,Ohio,29,26,5,7,73,65,144,Midwest,Midwest
+Q,R3X2,R2X2,R2X3,636,636,695,02,11,Kansas,NC State,27,22,6,12,60,57,144,Midwest,Midwest
+Q,R3Y1,R2Y1,R2Y4,640,640,625,01,04,Kentucky,Indiana,32,25,2,8,102,90,144,South,South
+Q,R3Y2,R2Y2,R2Y3,521,853,521,10,03,Xavier,Baylor,21,26,12,7,70,75,144,South,South
+Q,R3Z1,R2Z1,R2Z4,651,671,651,01,04,Michigan St,Louisville,27,26,7,9,44,57,143,West,West
+Q,R3Z2,R2Z2,R2Z3,592,592,660,07,03,Florida,Marquette,23,25,10,7,68,58,143,West,West
+Q,R4W1,R3W1,R3W2,720,786,720,01,02,Syracuse,Ohio St,31,27,2,7,70,77,145,East,East
+Q,R4X1,R3X1,R3X2,636,708,636,01,02,North Carolina,Kansas,29,27,5,6,67,80,146,Midwest,Midwest
+Q,R4Y1,R3Y1,R3Y2,640,640,521,01,03,Kentucky,Baylor,32,26,2,7,82,70,146,South,South
+Q,R4Z1,R3Z1,R3Z2,651,651,592,04,07,Louisville,Florida,26,23,9,10,72,68,145,West,West
+Q,R5WX,R4W1,R4X1,636,720,636,02,02,Ohio St,Kansas,27,27,7,6,62,64,152,East,Midwest
+Q,R5YZ,R4Y1,R4Z1,640,640,651,01,04,Kentucky,Louisville,32,26,2,9,69,61,152,South,West
+Q,R6CH,R5WX,R5YZ,640,636,640,02,01,Kansas,Kentucky,27,32,6,2,59,67,154,Midwest,South
+R,W16,W16a,W16b,635,635,648,16,16,James Madison,Long Island,20,20,14,13,68,55,135,East,East
+R,Y11,Y11a,Y11b,781,672,781,11,11,Middle Tenn St,St Marys CA,28,26,5,6,54,67,134,Midwest,Midwest
+R,Y16,Y16a,Y16b,693,645,693,16,16,Liberty,NC A&T,12,18,20,16,72,73,134,Midwest,Midwest
+R,Z13,Z13a,Z13b,641,526,641,13,13,Boise St,La Salle,19,21,10,9,71,80,135,West,West
+R,R1W1,W01,W16,625,625,635,01,16,Indiana,James Madison,27,20,6,14,83,62,137,East,East
+R,R1W2,W02,W15,668,668,727,02,15,Miami FL,Pacific,27,20,6,12,78,49,137,East,East
+R,R1W3,W03,W14,660,660,568,03,14,Marquette,Davidson,23,25,8,7,59,58,136,East,East
+R,R1W4,W04,W13,786,786,680,04,13,Syracuse,Montana,26,23,9,6,81,34,136,East,East
+R,R1W5,W05,W12,539,817,539,05,12,UNLV,California,24,20,9,11,61,64,136,East,East
+R,R1W6,W06,W11,535,535,533,06,11,Butler,Bucknell,25,27,8,5,68,56,136,East,East
+R,R1W7,W07,W10,623,623,556,07,10,Illinois,Colorado,21,21,12,11,57,49,137,East,East
+R,R1W8,W08,W09,789,695,789,08,09,NC State,Temple,24,23,10,9,72,76,137,East,East
+R,R1X1,X01,X16,636,636,835,01,16,Kansas,W Kentucky,29,19,5,15,64,57,137,South,South
+R,R1X2,X02,X15,591,603,591,02,15,Georgetown,FL Gulf Coast,25,22,6,10,68,78,137,South,South
+R,R1X3,X03,X14,592,592,716,03,14,Florida,Northwestern LA,26,19,7,8,79,47,137,South,South
+R,R1X4,X04,X13,670,670,748,04,13,Michigan,S Dakota St,25,22,7,9,71,56,136,South,South
+R,R1X5,X05,X12,825,825,503,05,12,VA Commonwealth,Akron,26,25,8,6,88,42,136,South,South
+R,R1X6,X06,X11,673,810,673,06,11,UCLA,Minnesota,25,20,9,12,63,83,137,South,South
+R,R1X7,X07,X10,754,754,721,07,10,San Diego St,Oklahoma,20,20,10,11,70,55,137,South,South
+R,R1X8,X08,X09,708,708,829,08,09,North Carolina,Villanova,23,19,10,13,78,71,137,South,South
+R,R1Y1,Y01,Y16,651,651,693,01,16,Louisville,NC A&T,29,18,5,16,79,48,136,Midwest,Midwest
+R,R1Y2,Y02,Y15,577,577,507,02,15,Duke,Albany NY,27,24,5,10,73,61,137,Midwest,Midwest
+R,R1Y3,Y03,Y14,671,671,826,03,14,Michigan St,Valparaiso,24,25,8,7,65,54,136,Midwest,Midwest
+R,R1Y4,Y04,Y13,780,780,702,04,13,St Louis,New Mexico St,27,23,6,10,64,44,136,Midwest,Midwest
+R,R1Y5,Y05,Y12,725,722,725,05,12,Oklahoma St,Oregon,24,26,8,8,55,68,136,Midwest,Midwest
+R,R1Y6,Y06,Y11,666,666,781,06,11,Memphis,St Marys CA,30,26,4,6,54,52,136,Midwest,Midwest
+R,R1Y7,Y07,Y10,562,562,549,07,10,Creighton,Cincinnati,27,22,7,11,67,63,137,Midwest,Midwest
+R,R1Y8,Y08,Y09,557,557,676,08,09,Colorado St,Missouri,23,23,8,10,84,72,136,Midwest,Midwest
+R,R1Z1,Z01,Z16,607,607,773,01,16,Gonzaga,Southern Univ,30,20,2,9,64,58,136,West,West
+R,R1Z2,Z02,Z15,720,720,627,02,15,Ohio St,Iona,26,20,7,13,95,70,137,West,West
+R,R1Z3,Z03,Z14,612,701,612,03,14,New Mexico,Harvard,29,18,5,9,62,68,136,West,West
+R,R1Z4,Z04,Z13,641,637,641,04,13,Kansas St,La Salle,26,21,7,9,61,63,137,West,West
+R,R1Z5,Z05,Z12,674,849,674,05,12,Wisconsin,Mississippi,23,26,11,8,46,57,137,West,West
+R,R1Z6,Z06,Z11,511,511,522,06,11,Arizona,Belmont,25,24,7,6,81,64,136,West,West
+R,R1Z7,Z07,Z10,629,717,629,07,10,Notre Dame,Iowa St,25,22,9,11,58,76,137,West,West
+R,R1Z8,Z08,Z09,846,731,846,08,09,Pittsburgh,Wichita St,24,26,8,8,55,73,136,West,West
+R,R2W1,R1W1,R1W8,625,625,789,01,09,Indiana,Temple,27,23,6,9,58,52,139,East,East
+R,R2W2,R1W2,R1W7,668,668,623,02,07,Miami FL,Illinois,27,21,6,12,63,59,139,East,East
+R,R2W3,R1W3,R1W6,660,660,535,03,06,Marquette,Butler,23,25,8,8,74,72,138,East,East
+R,R2W4,R1W4,R1W5,786,786,539,04,12,Syracuse,California,26,20,9,11,66,60,138,East,East
+R,R2X1,R1X1,R1X8,636,636,708,01,08,Kansas,North Carolina,29,23,5,10,70,58,139,South,South
+R,R2X2,R1X2,R1X7,591,591,754,15,07,FL Gulf Coast,San Diego St,22,20,10,10,81,71,139,South,South
+R,R2X3,R1X3,R1X6,592,592,673,03,11,Florida,Minnesota,26,20,7,12,78,64,139,South,South
+R,R2X4,R1X4,R1X5,670,670,825,04,05,Michigan,VA Commonwealth,25,26,7,8,78,53,138,South,South
+R,R2Y1,R1Y1,R1Y8,651,651,557,01,08,Louisville,Colorado St,29,23,5,8,82,56,138,Midwest,Midwest
+R,R2Y2,R1Y2,R1Y7,577,577,562,02,07,Duke,Creighton,27,27,5,7,66,50,139,Midwest,Midwest
+R,R2Y3,R1Y3,R1Y6,671,671,666,03,06,Michigan St,Memphis,24,30,8,4,70,48,138,Midwest,Midwest
+R,R2Y4,R1Y4,R1Y5,725,780,725,04,12,St Louis,Oregon,27,26,6,8,57,74,138,Midwest,Midwest
+R,R2Z1,R1Z1,R1Z8,846,607,846,01,09,Gonzaga,Wichita St,30,26,2,8,70,76,138,West,West
+R,R2Z2,R1Z2,R1Z7,720,720,629,02,10,Ohio St,Iowa St,26,22,7,11,78,75,139,West,West
+R,R2Z3,R1Z3,R1Z6,511,612,511,14,06,Harvard,Arizona,18,25,9,7,51,74,138,West,West
+R,R2Z4,R1Z4,R1Z5,641,641,674,13,12,La Salle,Mississippi,21,26,9,8,76,74,139,West,West
+R,R3W1,R2W1,R2W4,786,625,786,01,04,Indiana,Syracuse,27,26,6,9,50,61,143,East,East
+R,R3W2,R2W2,R2W3,660,668,660,02,03,Miami FL,Marquette,27,23,6,8,61,71,143,East,East
+R,R3X1,R2X1,R2X4,670,636,670,01,04,Kansas,Michigan,29,25,5,7,85,87,144,South,South
+R,R3X2,R2X2,R2X3,592,591,592,15,03,FL Gulf Coast,Florida,22,26,10,7,50,62,144,South,South
+R,R3Y1,R2Y1,R2Y4,651,651,725,01,12,Louisville,Oregon,29,26,5,8,77,69,144,Midwest,Midwest
+R,R3Y2,R2Y2,R2Y3,577,577,671,02,03,Duke,Michigan St,27,24,5,8,71,61,144,Midwest,Midwest
+R,R3Z1,R2Z1,R2Z4,846,846,641,09,13,Wichita St,La Salle,26,21,8,9,72,58,143,West,West
+R,R3Z2,R2Z2,R2Z3,720,720,511,02,06,Ohio St,Arizona,26,25,7,7,73,70,143,West,West
+R,R4W1,R3W1,R3W2,786,786,660,04,03,Syracuse,Marquette,26,23,9,8,55,39,145,East,East
+R,R4X1,R3X1,R3X2,670,670,592,04,03,Michigan,Florida,25,26,7,7,79,59,146,South,South
+R,R4Y1,R3Y1,R3Y2,651,651,577,01,02,Louisville,Duke,29,27,5,5,85,63,146,Midwest,Midwest
+R,R4Z1,R3Z1,R3Z2,846,846,720,09,02,Wichita St,Ohio St,26,26,8,7,70,66,145,West,West
+R,R5WX,R4W1,R4X1,670,786,670,04,04,Syracuse,Michigan,26,25,9,7,56,61,152,East,South
+R,R5YZ,R4Y1,R4Z1,651,651,846,01,09,Louisville,Wichita St,29,26,5,8,72,68,152,Midwest,West
+R,R6CH,R5WX,R5YZ,651,670,651,04,01,Michigan,Louisville,25,29,7,5,76,82,154,South,Midwest
